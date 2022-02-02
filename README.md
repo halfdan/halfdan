@@ -31,11 +31,11 @@ Hi there, I'm Fabian, an open source contributor and software engineer. I have c
 
 #### 📜 My recent blog posts
 
-- [Self-hosting VSCode](https://fribbledom.com/posts/selfhosting-vscode/) (7 months ago)
-- [Installing Arch Linux with Full Disk Encryption](https://fribbledom.com/posts/encrypted-arch-install/) (2 years ago)
-- [Remotely Installing a Fully-Encrypted Debian Server](https://fribbledom.com/posts/encrypted-remote-debian-install/) (3 years ago)
-- [Gamut, a Go Package to Manage Color Palettes](https://fribbledom.com/posts/gamut-package-to-handle-color-palettes/) (3 years ago)
-- [An Algorithm to Generate Color Palettes](https://fribbledom.com/posts/an-algorithm-to-generate-color-palettes/) (3 years ago)
+- [Learning to type Dvorak](https://geekmonkey.org/learning-to-type-dvorak/) (1 month ago)
+- [It&#39;s bingo time (AoC 2021 Day 4)](https://geekmonkey.org/aoc2021-day4/) (1 month ago)
+- [Advent of Code 2021 - Day 3](https://geekmonkey.org/aoc2021-day3/) (1 month ago)
+- [Advent of Code 2021 - Day 2](https://geekmonkey.org/aoc2021-day2/) (1 month ago)
+- [Advent of Code 2021 - Day 1](https://geekmonkey.org/aoc2021-day1/) (1 month ago)
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
@@ -49,4 +49,3 @@ and what needs being improved. Got an issue? Open a ticket, I don't bite and wil
 
 - Twitter: https://twitter.com/geekproject
 - Blog: https://geekmonkey.org
-- IRC: muesli on Libera
