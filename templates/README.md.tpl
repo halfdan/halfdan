@@ -25,7 +25,7 @@ Hi there, I'm Fabian, an open source contributor and software engineer. I have c
 {{- end}}
 
 #### 📜 My recent blog posts
-{{range rss "https://fribbledom.com/posts/index.xml" 5}}
+{{range rss "https://geekmonkey.org/rss/" 5}}
 - [{{.Title}}]({{.URL}}) ({{humanize .PublishedAt}})
 {{- end}}
 
@@ -43,4 +43,3 @@ and what needs being improved. Got an issue? Open a ticket, I don't bite and wil
 
 - Twitter: https://twitter.com/geekproject
 - Blog: https://geekmonkey.org
-- IRC: muesli on Libera
