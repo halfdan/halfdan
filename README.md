@@ -6,7 +6,7 @@ Hi there, I'm Fabian, an open source contributor and software engineer. I have c
 
 #### 👷 Check out what I'm currently working on
 
-- [halfdan/dotfiles](https://github.com/halfdan/dotfiles) -  (6 days ago)
+- [halfdan/dotfiles](https://github.com/halfdan/dotfiles) -  (1 week ago)
 - [halfdan/piwik-ruby-tracking](https://github.com/halfdan/piwik-ruby-tracking) - A Ruby Gem that allows you to add the Piwik Tracking Code to Sinatra, Padrinorb and Rails (1 month ago)
 - [halfdan/github-commit-history](https://github.com/halfdan/github-commit-history) - Github Commit History is a JS-Library to show the commit history of a github repository. It produces a listing similar to Github&#39;s &#34;Commit&#34; page. (10 months ago)
 
@@ -33,7 +33,7 @@ Hi there, I'm Fabian, an open source contributor and software engineer. I have c
 
 - [Learning to type Dvorak](https://geekmonkey.org/learning-to-type-dvorak/) (1 month ago)
 - [It&#39;s bingo time (AoC 2021 Day 4)](https://geekmonkey.org/aoc2021-day4/) (1 month ago)
-- [Advent of Code 2021 - Day 3](https://geekmonkey.org/aoc2021-day3/) (1 month ago)
+- [Advent of Code 2021 - Day 3](https://geekmonkey.org/aoc2021-day3/) (2 months ago)
 - [Advent of Code 2021 - Day 2](https://geekmonkey.org/aoc2021-day2/) (2 months ago)
 - [Advent of Code 2021 - Day 1](https://geekmonkey.org/aoc2021-day1/) (2 months ago)
 
