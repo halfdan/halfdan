@@ -32,7 +32,7 @@ Hi there, I'm Fabian, an open source contributor and software engineer. I have c
 #### 📜 My recent blog posts
 
 - [Learning to type Dvorak](https://geekmonkey.org/learning-to-type-dvorak/) (1 month ago)
-- [It&#39;s bingo time (AoC 2021 Day 4)](https://geekmonkey.org/aoc2021-day4/) (1 month ago)
+- [It&#39;s bingo time (AoC 2021 Day 4)](https://geekmonkey.org/aoc2021-day4/) (2 months ago)
 - [Advent of Code 2021 - Day 3](https://geekmonkey.org/aoc2021-day3/) (2 months ago)
 - [Advent of Code 2021 - Day 2](https://geekmonkey.org/aoc2021-day2/) (2 months ago)
 - [Advent of Code 2021 - Day 1](https://geekmonkey.org/aoc2021-day1/) (2 months ago)
