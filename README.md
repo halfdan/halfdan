@@ -7,7 +7,7 @@ Hi there, I'm Fabian, an open source contributor and software engineer. I have c
 #### 👷 Check out what I'm currently working on
 
 - [halfdan/dotfiles](https://github.com/halfdan/dotfiles) - My personal dotfiles used on my Mac and Linux machines (1 month ago)
-- [halfdan/piwik-ruby-tracking](https://github.com/halfdan/piwik-ruby-tracking) - A Ruby Gem that allows you to add the Piwik Tracking Code to Sinatra, Padrinorb and Rails (2 months ago)
+- [halfdan/piwik-ruby-tracking](https://github.com/halfdan/piwik-ruby-tracking) - A Ruby Gem that allows you to add the Piwik Tracking Code to Sinatra, Padrinorb and Rails (3 months ago)
 - [halfdan/github-commit-history](https://github.com/halfdan/github-commit-history) - Github Commit History is a JS-Library to show the commit history of a github repository. It produces a listing similar to Github&#39;s &#34;Commit&#34; page. (11 months ago)
 
 #### 🌱 My latest projects
