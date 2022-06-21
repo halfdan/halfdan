@@ -6,7 +6,7 @@ Hi there, I'm Fabian, an open source contributor and software engineer. I have c
 
 #### 👷 Check out what I'm currently working on
 
-- [halfdan/dotfiles](https://github.com/halfdan/dotfiles) - My personal dotfiles used on my Mac and Linux machines (3 weeks ago)
+- [halfdan/dotfiles](https://github.com/halfdan/dotfiles) - My personal dotfiles used on my Mac and Linux machines (4 weeks ago)
 - [halfdan/piwik-ruby-tracking](https://github.com/halfdan/piwik-ruby-tracking) - A Ruby Gem that allows you to add the Piwik Tracking Code to Sinatra, Padrinorb and Rails (5 months ago)
 
 #### 🌱 My latest projects
