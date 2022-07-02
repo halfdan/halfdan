@@ -6,7 +6,7 @@ Hi there, I'm Fabian, an open source contributor and software engineer. I have c
 
 #### 👷 Check out what I'm currently working on
 
-- [halfdan/dotfiles](https://github.com/halfdan/dotfiles) - My personal dotfiles used on my Mac and Linux machines (2 days ago)
+- [halfdan/dotfiles](https://github.com/halfdan/dotfiles) - My personal dotfiles used on my Mac and Linux machines (3 days ago)
 - [halfdan/piwik-ruby-tracking](https://github.com/halfdan/piwik-ruby-tracking) - A Ruby Gem that allows you to add the Piwik Tracking Code to Sinatra, Padrinorb and Rails (6 months ago)
 
 #### 🌱 My latest projects
@@ -31,7 +31,7 @@ Hi there, I'm Fabian, an open source contributor and software engineer. I have c
 #### 📜 My recent blog posts
 
 - [Rethink your git workflow with git-worktree](https://geekmonkey.org/rethink-your-git-workflow-with-git-worktree/) (4 months ago)
-- [Learning to type Dvorak](https://geekmonkey.org/learning-to-type-dvorak/) (5 months ago)
+- [Learning to type Dvorak](https://geekmonkey.org/learning-to-type-dvorak/) (6 months ago)
 - [It&#39;s bingo time (AoC 2021 Day 4)](https://geekmonkey.org/aoc2021-day4/) (6 months ago)
 - [Advent of Code 2021 - Day 3](https://geekmonkey.org/aoc2021-day3/) (6 months ago)
 - [Advent of Code 2021 - Day 2](https://geekmonkey.org/aoc2021-day2/) (6 months ago)
