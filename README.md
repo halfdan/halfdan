@@ -22,7 +22,7 @@ Hi there, I'm Fabian, an open source contributor and software engineer. I have c
 
 #### 🔨 Latest Pull Requests I published
 
-- [Add additional Elixir query to correctly handle shorthand function declarations](https://github.com/nvim-treesitter/nvim-treesitter-textobjects/pull/248) on [nvim-treesitter/nvim-treesitter-textobjects](https://github.com/nvim-treesitter/nvim-treesitter-textobjects) (2 days ago)
+- [Add additional Elixir query to correctly handle shorthand function declarations](https://github.com/nvim-treesitter/nvim-treesitter-textobjects/pull/248) on [nvim-treesitter/nvim-treesitter-textobjects](https://github.com/nvim-treesitter/nvim-treesitter-textobjects) (3 days ago)
 - [Add missing tune families](https://github.com/darvid/python-hyperscan/pull/19) on [darvid/python-hyperscan](https://github.com/darvid/python-hyperscan) (2 years ago)
 - [Add support for Python 3.8](https://github.com/bouncer-app/flask-bouncer/pull/20) on [bouncer-app/flask-bouncer](https://github.com/bouncer-app/flask-bouncer) (2 years ago)
 - [[stable/metabase] Bump version metabase to v0.34.0](https://github.com/helm/charts/pull/19641) on [helm/charts](https://github.com/helm/charts) (2 years ago)
