@@ -6,8 +6,8 @@ Hi there, I'm Fabian, an open source contributor and software engineer. I have c
 
 #### 👷 Check out what I'm currently working on
 
-- [halfdan/dotfiles](https://github.com/halfdan/dotfiles) - My personal dotfiles used on my Mac and Linux machines (4 weeks ago)
-- [halfdan/piwik-ruby-tracking](https://github.com/halfdan/piwik-ruby-tracking) - A Ruby Gem that allows you to add the Piwik Tracking Code to Sinatra, Padrinorb and Rails (7 months ago)
+- [halfdan/dotfiles](https://github.com/halfdan/dotfiles) - My personal dotfiles used on my Mac and Linux machines (1 month ago)
+- [halfdan/piwik-ruby-tracking](https://github.com/halfdan/piwik-ruby-tracking) - A Ruby Gem that allows you to add the Piwik Tracking Code to Sinatra, Padrinorb and Rails (8 months ago)
 
 #### 🌱 My latest projects
 
@@ -22,7 +22,7 @@ Hi there, I'm Fabian, an open source contributor and software engineer. I have c
 
 #### 🔨 Latest Pull Requests I published
 
-- [Make newsletter exercise tests run async](https://github.com/exercism/elixir/pull/1183) on [exercism/elixir](https://github.com/exercism/elixir) (1 day ago)
+- [Make newsletter exercise tests run async](https://github.com/exercism/elixir/pull/1183) on [exercism/elixir](https://github.com/exercism/elixir) (2 days ago)
 - [Add additional Elixir query to correctly handle shorthand function declarations](https://github.com/nvim-treesitter/nvim-treesitter-textobjects/pull/248) on [nvim-treesitter/nvim-treesitter-textobjects](https://github.com/nvim-treesitter/nvim-treesitter-textobjects) (1 week ago)
 - [Add missing tune families](https://github.com/darvid/python-hyperscan/pull/19) on [darvid/python-hyperscan](https://github.com/darvid/python-hyperscan) (2 years ago)
 - [Add support for Python 3.8](https://github.com/bouncer-app/flask-bouncer/pull/20) on [bouncer-app/flask-bouncer](https://github.com/bouncer-app/flask-bouncer) (2 years ago)
