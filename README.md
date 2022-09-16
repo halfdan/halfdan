@@ -31,9 +31,9 @@ Hi there, I'm Fabian, an open source contributor and software engineer. I have c
 
 #### 📜 My recent blog posts
 
-- [Rethink your git workflow with git-worktree](https://geekmonkey.org/rethink-your-git-workflow-with-git-worktree/) (6 months ago)
+- [Rethink your git workflow with git-worktree](https://geekmonkey.org/rethink-your-git-workflow-with-git-worktree/) (7 months ago)
 - [Learning to type Dvorak](https://geekmonkey.org/learning-to-type-dvorak/) (8 months ago)
-- [It&#39;s bingo time (AoC 2021 Day 4)](https://geekmonkey.org/aoc2021-day4/) (8 months ago)
+- [It&#39;s bingo time (AoC 2021 Day 4)](https://geekmonkey.org/aoc2021-day4/) (9 months ago)
 - [Advent of Code 2021 - Day 3](https://geekmonkey.org/aoc2021-day3/) (9 months ago)
 - [Advent of Code 2021 - Day 2](https://geekmonkey.org/aoc2021-day2/) (9 months ago)
 
