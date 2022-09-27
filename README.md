@@ -6,7 +6,7 @@ Hi there, I'm Fabian, an open source contributor and software engineer. I have c
 
 #### 👷 Check out what I'm currently working on
 
-- [jfpedroza/neotest-elixir](https://github.com/jfpedroza/neotest-elixir) - Neotest adapter for Elixir (2 weeks ago)
+- [jfpedroza/neotest-elixir](https://github.com/jfpedroza/neotest-elixir) - Neotest adapter for Elixir (3 weeks ago)
 - [halfdan/dotfiles](https://github.com/halfdan/dotfiles) - My personal dotfiles used on my Mac and Linux machines (2 months ago)
 - [halfdan/piwik-ruby-tracking](https://github.com/halfdan/piwik-ruby-tracking) - A Ruby Gem that allows you to add the Piwik Tracking Code to Sinatra, Padrinorb and Rails (9 months ago)
 
@@ -23,7 +23,7 @@ Hi there, I'm Fabian, an open source contributor and software engineer. I have c
 
 #### 🔨 Latest Pull Requests I published
 
-- [fix: Require URI in README.md](https://github.com/jfpedroza/neotest-elixir/pull/5) on [jfpedroza/neotest-elixir](https://github.com/jfpedroza/neotest-elixir) (2 weeks ago)
+- [fix: Require URI in README.md](https://github.com/jfpedroza/neotest-elixir/pull/5) on [jfpedroza/neotest-elixir](https://github.com/jfpedroza/neotest-elixir) (3 weeks ago)
 - [Make newsletter exercise tests run async](https://github.com/exercism/elixir/pull/1183) on [exercism/elixir](https://github.com/exercism/elixir) (1 month ago)
 - [Add additional Elixir query to correctly handle shorthand function declarations](https://github.com/nvim-treesitter/nvim-treesitter-textobjects/pull/248) on [nvim-treesitter/nvim-treesitter-textobjects](https://github.com/nvim-treesitter/nvim-treesitter-textobjects) (1 month ago)
 - [Add missing tune families](https://github.com/darvid/python-hyperscan/pull/19) on [darvid/python-hyperscan](https://github.com/darvid/python-hyperscan) (2 years ago)
