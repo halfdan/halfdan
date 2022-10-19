@@ -23,11 +23,11 @@ Hi there, I'm Fabian, an open source contributor and software engineer. I have c
 
 #### 🔨 Latest Pull Requests I published
 
+- [Pass worktree_path to Create hook](https://github.com/ThePrimeagen/git-worktree.nvim/pull/103) on [ThePrimeagen/git-worktree.nvim](https://github.com/ThePrimeagen/git-worktree.nvim) (today)
 - [Added NeogitPullComplete event](https://github.com/TimUntersberger/neogit/pull/372) on [TimUntersberger/neogit](https://github.com/TimUntersberger/neogit) (6 days ago)
 - [Add Ecto.Enum type inference and map to :keyword](https://github.com/Frameio/exlasticsearch/pull/29) on [Frameio/exlasticsearch](https://github.com/Frameio/exlasticsearch) (3 weeks ago)
 - [fix: Require URI in README.md](https://github.com/jfpedroza/neotest-elixir/pull/5) on [jfpedroza/neotest-elixir](https://github.com/jfpedroza/neotest-elixir) (1 month ago)
 - [Make newsletter exercise tests run async](https://github.com/exercism/elixir/pull/1183) on [exercism/elixir](https://github.com/exercism/elixir) (1 month ago)
-- [Add additional Elixir query to correctly handle shorthand function declarations](https://github.com/nvim-treesitter/nvim-treesitter-textobjects/pull/248) on [nvim-treesitter/nvim-treesitter-textobjects](https://github.com/nvim-treesitter/nvim-treesitter-textobjects) (2 months ago)
 
 #### 📜 My recent blog posts
 
