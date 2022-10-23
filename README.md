@@ -6,7 +6,7 @@ Hi there, I'm Fabian, an open source contributor and software engineer. I have c
 
 #### 👷 Check out what I'm currently working on
 
-- [halfdan/dotfiles](https://github.com/halfdan/dotfiles) - My personal dotfiles used on my Mac and Linux machines (6 days ago)
+- [halfdan/dotfiles](https://github.com/halfdan/dotfiles) - My personal dotfiles used on my Mac and Linux machines (1 week ago)
 - [jfpedroza/neotest-elixir](https://github.com/jfpedroza/neotest-elixir) - Neotest adapter for Elixir (1 month ago)
 - [halfdan/piwik-ruby-tracking](https://github.com/halfdan/piwik-ruby-tracking) - A Ruby Gem that allows you to add the Piwik Tracking Code to Sinatra, Padrinorb and Rails (9 months ago)
 
@@ -23,11 +23,11 @@ Hi there, I'm Fabian, an open source contributor and software engineer. I have c
 
 #### 🔨 Latest Pull Requests I published
 
-- [Pass worktree_path to Create hook](https://github.com/ThePrimeagen/git-worktree.nvim/pull/103) on [ThePrimeagen/git-worktree.nvim](https://github.com/ThePrimeagen/git-worktree.nvim) (3 days ago)
+- [Pass worktree_path to Create hook](https://github.com/ThePrimeagen/git-worktree.nvim/pull/103) on [ThePrimeagen/git-worktree.nvim](https://github.com/ThePrimeagen/git-worktree.nvim) (4 days ago)
 - [Added NeogitPullComplete event](https://github.com/TimUntersberger/neogit/pull/372) on [TimUntersberger/neogit](https://github.com/TimUntersberger/neogit) (1 week ago)
 - [Add Ecto.Enum type inference and map to :keyword](https://github.com/Frameio/exlasticsearch/pull/29) on [Frameio/exlasticsearch](https://github.com/Frameio/exlasticsearch) (3 weeks ago)
 - [fix: Require URI in README.md](https://github.com/jfpedroza/neotest-elixir/pull/5) on [jfpedroza/neotest-elixir](https://github.com/jfpedroza/neotest-elixir) (1 month ago)
-- [Make newsletter exercise tests run async](https://github.com/exercism/elixir/pull/1183) on [exercism/elixir](https://github.com/exercism/elixir) (1 month ago)
+- [Make newsletter exercise tests run async](https://github.com/exercism/elixir/pull/1183) on [exercism/elixir](https://github.com/exercism/elixir) (2 months ago)
 
 #### 📜 My recent blog posts
 
