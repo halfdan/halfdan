@@ -6,6 +6,7 @@ Hi there, I'm Fabian, an open source contributor and software engineer. I have c
 
 #### 👷 Check out what I'm currently working on
 
+- [halfdan/jira.nvim](https://github.com/halfdan/jira.nvim) - An opinionated Jira client for Neovim written in pure Lua (today)
 - [halfdan/dotfiles](https://github.com/halfdan/dotfiles) - My personal dotfiles used on my Mac and Linux machines (1 week ago)
 - [TimUntersberger/neogit](https://github.com/TimUntersberger/neogit) - magit for neovim (1 week ago)
 - [jfpedroza/neotest-elixir](https://github.com/jfpedroza/neotest-elixir) - Neotest adapter for Elixir (1 month ago)
@@ -13,11 +14,11 @@ Hi there, I'm Fabian, an open source contributor and software engineer. I have c
 
 #### 🌱 My latest projects
 
+- [halfdan/jira.nvim](https://github.com/halfdan/jira.nvim) - An opinionated Jira client for Neovim written in pure Lua
 - [halfdan/adventofcode2015](https://github.com/halfdan/adventofcode2015) - Solutions for Advent of Code in 2015 (Using Golang)
 - [halfdan/geekmonkey](https://github.com/halfdan/geekmonkey) - Code projects from geekmonkey.org
 - [halfdan/dotfiles](https://github.com/halfdan/dotfiles) - My personal dotfiles used on my Mac and Linux machines
 - [halfdan/GitScanner](https://github.com/halfdan/GitScanner) - Small script to scan through all github repos and find commits from a specific author
-- [halfdan/TwitchBot.jl](https://github.com/halfdan/TwitchBot.jl) - 
 
 #### 🔭 Latest releases I've contributed to
 
