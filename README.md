@@ -6,8 +6,8 @@ Hi there, I'm Fabian, an open source contributor and software engineer. I have c
 
 #### 👷 Check out what I'm currently working on
 
-- [halfdan/jira.nvim](https://github.com/halfdan/jira.nvim) - An opinionated Jira client for Neovim written in pure Lua (2 days ago)
-- [halfdan/dotfiles](https://github.com/halfdan/dotfiles) - My personal dotfiles used on my Mac and Linux machines (3 days ago)
+- [halfdan/jira.nvim](https://github.com/halfdan/jira.nvim) - An opinionated Jira client for Neovim written in pure Lua (3 days ago)
+- [halfdan/dotfiles](https://github.com/halfdan/dotfiles) - My personal dotfiles used on my Mac and Linux machines (4 days ago)
 - [TimUntersberger/neogit](https://github.com/TimUntersberger/neogit) - magit for neovim (2 weeks ago)
 - [jfpedroza/neotest-elixir](https://github.com/jfpedroza/neotest-elixir) - Neotest adapter for Elixir (1 month ago)
 - [halfdan/piwik-ruby-tracking](https://github.com/halfdan/piwik-ruby-tracking) - A Ruby Gem that allows you to add the Piwik Tracking Code to Sinatra, Padrinorb and Rails (10 months ago)
@@ -25,7 +25,7 @@ Hi there, I'm Fabian, an open source contributor and software engineer. I have c
 
 #### 🔨 Latest Pull Requests I published
 
-- [Fixes bug with string interpolation from 3rd party functions](https://github.com/nvim-lualine/lualine.nvim/pull/880) on [nvim-lualine/lualine.nvim](https://github.com/nvim-lualine/lualine.nvim) (6 days ago)
+- [Fixes bug with string interpolation from 3rd party functions](https://github.com/nvim-lualine/lualine.nvim/pull/880) on [nvim-lualine/lualine.nvim](https://github.com/nvim-lualine/lualine.nvim) (1 week ago)
 - [Pass worktree_path to Create hook](https://github.com/ThePrimeagen/git-worktree.nvim/pull/103) on [ThePrimeagen/git-worktree.nvim](https://github.com/ThePrimeagen/git-worktree.nvim) (1 week ago)
 - [Added NeogitPullComplete event](https://github.com/TimUntersberger/neogit/pull/372) on [TimUntersberger/neogit](https://github.com/TimUntersberger/neogit) (2 weeks ago)
 - [Add Ecto.Enum type inference and map to :keyword](https://github.com/Frameio/exlasticsearch/pull/29) on [Frameio/exlasticsearch](https://github.com/Frameio/exlasticsearch) (1 month ago)
