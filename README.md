@@ -6,7 +6,7 @@ Hi there, I'm Fabian, an open source contributor and software engineer. I have c
 
 #### 👷 Check out what I'm currently working on
 
-- [halfdan/dotfiles](https://github.com/halfdan/dotfiles) - My personal dotfiles used on my Mac and Linux machines (today)
+- [halfdan/dotfiles](https://github.com/halfdan/dotfiles) - My personal dotfiles used on my Mac and Linux machines (1 day ago)
 - [halfdan/jira.nvim](https://github.com/halfdan/jira.nvim) - An opinionated Jira client for Neovim written in pure Lua (1 week ago)
 - [TimUntersberger/neogit](https://github.com/TimUntersberger/neogit) - magit for neovim (3 weeks ago)
 - [jfpedroza/neotest-elixir](https://github.com/jfpedroza/neotest-elixir) - Neotest adapter for Elixir (2 months ago)
@@ -25,7 +25,7 @@ Hi there, I'm Fabian, an open source contributor and software engineer. I have c
 
 #### 🔨 Latest Pull Requests I published
 
-- [Refactor BufAdd,BufWritePost handling](https://github.com/nvim-neotest/neotest/pull/137) on [nvim-neotest/neotest](https://github.com/nvim-neotest/neotest) (5 days ago)
+- [Refactor BufAdd,BufWritePost handling](https://github.com/nvim-neotest/neotest/pull/137) on [nvim-neotest/neotest](https://github.com/nvim-neotest/neotest) (6 days ago)
 - [Fixes bug with string interpolation from 3rd party functions](https://github.com/nvim-lualine/lualine.nvim/pull/880) on [nvim-lualine/lualine.nvim](https://github.com/nvim-lualine/lualine.nvim) (2 weeks ago)
 - [Pass worktree_path to Create hook](https://github.com/ThePrimeagen/git-worktree.nvim/pull/103) on [ThePrimeagen/git-worktree.nvim](https://github.com/ThePrimeagen/git-worktree.nvim) (2 weeks ago)
 - [Added NeogitPullComplete event](https://github.com/TimUntersberger/neogit/pull/372) on [TimUntersberger/neogit](https://github.com/TimUntersberger/neogit) (3 weeks ago)
