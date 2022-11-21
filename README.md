@@ -6,19 +6,19 @@ Hi there, I'm Fabian, an open source contributor and software engineer. I have c
 
 #### 👷 Check out what I'm currently working on
 
-- [halfdan/madewithcode](https://github.com/halfdan/madewithcode) -  (1 day ago)
+- [halfdan/madewithcode](https://github.com/halfdan/madewithcode) -  (today)
+- [halfdan/rosalind](https://github.com/halfdan/rosalind) - Solutions to Rosalind exercises - follow my progress at https://madewithco.de (today)
 - [halfdan/dotfiles](https://github.com/halfdan/dotfiles) - My personal dotfiles used on my Mac and Linux machines (2 weeks ago)
 - [halfdan/jira.nvim](https://github.com/halfdan/jira.nvim) - An opinionated Jira client for Neovim written in pure Lua (3 weeks ago)
 - [TimUntersberger/neogit](https://github.com/TimUntersberger/neogit) - magit for neovim (1 month ago)
-- [jfpedroza/neotest-elixir](https://github.com/jfpedroza/neotest-elixir) - Neotest adapter for Elixir (2 months ago)
 
 #### 🌱 My latest projects
 
+- [halfdan/rosalind](https://github.com/halfdan/rosalind) - Solutions to Rosalind exercises - follow my progress at https://madewithco.de
 - [halfdan/madewithcode](https://github.com/halfdan/madewithcode) - 
 - [halfdan/jira.nvim](https://github.com/halfdan/jira.nvim) - An opinionated Jira client for Neovim written in pure Lua
 - [halfdan/adventofcode2015](https://github.com/halfdan/adventofcode2015) - Solutions for Advent of Code in 2015 (Using Golang)
 - [halfdan/geekmonkey](https://github.com/halfdan/geekmonkey) - Code projects from geekmonkey.org
-- [halfdan/dotfiles](https://github.com/halfdan/dotfiles) - My personal dotfiles used on my Mac and Linux machines
 
 #### 🔭 Latest releases I've contributed to
 
