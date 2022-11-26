@@ -6,8 +6,8 @@ Hi there, I'm Fabian, an open source contributor and software engineer. I have c
 
 #### 👷 Check out what I'm currently working on
 
-- [halfdan/madewithcode](https://github.com/halfdan/madewithcode) -  (4 days ago)
-- [halfdan/rosalind](https://github.com/halfdan/rosalind) - Solutions to Rosalind exercises - follow my progress at https://madewithco.de (4 days ago)
+- [halfdan/madewithcode](https://github.com/halfdan/madewithcode) -  (5 days ago)
+- [halfdan/rosalind](https://github.com/halfdan/rosalind) - Solutions to Rosalind exercises - follow my progress at https://madewithco.de (5 days ago)
 - [halfdan/dotfiles](https://github.com/halfdan/dotfiles) - My personal dotfiles used on my Mac and Linux machines (2 weeks ago)
 - [halfdan/jira.nvim](https://github.com/halfdan/jira.nvim) - An opinionated Jira client for Neovim written in pure Lua (4 weeks ago)
 - [TimUntersberger/neogit](https://github.com/TimUntersberger/neogit) - magit for neovim (1 month ago)
