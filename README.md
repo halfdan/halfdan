@@ -6,7 +6,7 @@ Hi there, I'm Fabian, an open source contributor and software engineer. I have c
 
 #### 👷 Check out what I'm currently working on
 
-- [exercism/elixir](https://github.com/exercism/elixir) - Exercism exercises in Elixir. (1 day ago)
+- [exercism/elixir](https://github.com/exercism/elixir) - Exercism exercises in Elixir. (2 days ago)
 - [halfdan/madewithcode](https://github.com/halfdan/madewithcode) -  (1 week ago)
 - [halfdan/rosalind](https://github.com/halfdan/rosalind) - Solutions to Rosalind exercises - follow my progress at https://madewithco.de (1 week ago)
 - [halfdan/dotfiles](https://github.com/halfdan/dotfiles) - My personal dotfiles used on my Mac and Linux machines (3 weeks ago)
@@ -35,7 +35,7 @@ Hi there, I'm Fabian, an open source contributor and software engineer. I have c
 
 - [Setting up PyTorch on Mac M1 GPUs (Apple Metal / MPS)](https://geekmonkey.org/setting-up-jupyter-lab-with-pytorch-on-a-mac-with-gpu/) (1 week ago)
 - [Rethink your git workflow with git-worktree](https://geekmonkey.org/rethink-your-git-workflow-with-git-worktree/) (9 months ago)
-- [Learning to type Dvorak](https://geekmonkey.org/learning-to-type-dvorak/) (10 months ago)
+- [Learning to type Dvorak](https://geekmonkey.org/learning-to-type-dvorak/) (11 months ago)
 - [It&#39;s bingo time (AoC 2021 Day 4)](https://geekmonkey.org/aoc2021-day4/) (11 months ago)
 - [Advent of Code 2021 - Day 3](https://geekmonkey.org/aoc2021-day3/) (11 months ago)
 
