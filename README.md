@@ -6,7 +6,7 @@ Hi there, I'm Fabian, an open source contributor and software engineer. I have c
 
 #### 👷 Check out what I'm currently working on
 
-- [exercism/elixir](https://github.com/exercism/elixir) - Exercism exercises in Elixir. (6 days ago)
+- [exercism/elixir](https://github.com/exercism/elixir) - Exercism exercises in Elixir. (1 week ago)
 - [halfdan/madewithcode](https://github.com/halfdan/madewithcode) -  (1 week ago)
 - [halfdan/rosalind](https://github.com/halfdan/rosalind) - Solutions to Rosalind exercises - follow my progress at https://madewithco.de (1 week ago)
 - [halfdan/dotfiles](https://github.com/halfdan/dotfiles) - My personal dotfiles used on my Mac and Linux machines (3 weeks ago)
