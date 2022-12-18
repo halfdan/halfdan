@@ -6,7 +6,7 @@ Hi there, I'm Fabian, an open source contributor and software engineer. I have c
 
 #### 👷 Check out what I'm currently working on
 
-- [exercism/elixir](https://github.com/exercism/elixir) - Exercism exercises in Elixir. (2 weeks ago)
+- [exercism/elixir](https://github.com/exercism/elixir) - Exercism exercises in Elixir. (3 weeks ago)
 - [halfdan/madewithcode](https://github.com/halfdan/madewithcode) -  (3 weeks ago)
 - [halfdan/rosalind](https://github.com/halfdan/rosalind) - Solutions to Rosalind exercises - follow my progress at https://madewithco.de (3 weeks ago)
 - [halfdan/dotfiles](https://github.com/halfdan/dotfiles) - My personal dotfiles used on my Mac and Linux machines (1 month ago)
@@ -28,12 +28,12 @@ Hi there, I'm Fabian, an open source contributor and software engineer. I have c
 - [Change open cmd to default to current directory](https://github.com/exercism/cli/pull/1070) on [exercism/cli](https://github.com/exercism/cli) (1 month ago)
 - [Refactor BufAdd,BufWritePost handling](https://github.com/nvim-neotest/neotest/pull/137) on [nvim-neotest/neotest](https://github.com/nvim-neotest/neotest) (1 month ago)
 - [Fixes bug with string interpolation from 3rd party functions](https://github.com/nvim-lualine/lualine.nvim/pull/880) on [nvim-lualine/lualine.nvim](https://github.com/nvim-lualine/lualine.nvim) (1 month ago)
-- [Pass worktree_path to Create hook](https://github.com/ThePrimeagen/git-worktree.nvim/pull/103) on [ThePrimeagen/git-worktree.nvim](https://github.com/ThePrimeagen/git-worktree.nvim) (1 month ago)
+- [Pass worktree_path to Create hook](https://github.com/ThePrimeagen/git-worktree.nvim/pull/103) on [ThePrimeagen/git-worktree.nvim](https://github.com/ThePrimeagen/git-worktree.nvim) (2 months ago)
 - [Added NeogitPullComplete event](https://github.com/TimUntersberger/neogit/pull/372) on [TimUntersberger/neogit](https://github.com/TimUntersberger/neogit) (2 months ago)
 
 #### 📜 My recent blog posts
 
-- [Setting up PyTorch on Mac M1 GPUs (Apple Metal / MPS)](https://geekmonkey.org/setting-up-jupyter-lab-with-pytorch-on-a-mac-with-gpu/) (4 weeks ago)
+- [Setting up PyTorch on Mac M1 GPUs (Apple Metal / MPS)](https://geekmonkey.org/setting-up-jupyter-lab-with-pytorch-on-a-mac-with-gpu/) (1 month ago)
 - [Rethink your git workflow with git-worktree](https://geekmonkey.org/rethink-your-git-workflow-with-git-worktree/) (10 months ago)
 - [Learning to type Dvorak](https://geekmonkey.org/learning-to-type-dvorak/) (11 months ago)
 - [It&#39;s bingo time (AoC 2021 Day 4)](https://geekmonkey.org/aoc2021-day4/) (1 year ago)
