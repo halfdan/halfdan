@@ -7,8 +7,8 @@ Hi there, I'm Fabian, an open source contributor and software engineer. I have c
 #### 👷 Check out what I'm currently working on
 
 - [exercism/elixir](https://github.com/exercism/elixir) - Exercism exercises in Elixir. (3 weeks ago)
-- [halfdan/madewithcode](https://github.com/halfdan/madewithcode) -  (4 weeks ago)
-- [halfdan/rosalind](https://github.com/halfdan/rosalind) - Solutions to Rosalind exercises - follow my progress at https://madewithco.de (4 weeks ago)
+- [halfdan/madewithcode](https://github.com/halfdan/madewithcode) -  (1 month ago)
+- [halfdan/rosalind](https://github.com/halfdan/rosalind) - Solutions to Rosalind exercises - follow my progress at https://madewithco.de (1 month ago)
 - [halfdan/dotfiles](https://github.com/halfdan/dotfiles) - My personal dotfiles used on my Mac and Linux machines (1 month ago)
 - [halfdan/jira.nvim](https://github.com/halfdan/jira.nvim) - An opinionated Jira client for Neovim written in pure Lua (1 month ago)
 
