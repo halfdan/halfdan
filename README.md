@@ -33,7 +33,7 @@ Hi there, I'm Fabian, an open source contributor and software engineer. I have c
 
 #### 📜 My recent blog posts
 
-- [Names should be descriptive, not cute](https://geekmonkey.org/names-should-be-descriptive-not-cute/) (1 week ago)
+- [Names should be descriptive, not cute](https://geekmonkey.org/names-should-be-descriptive-not-cute/) (2 weeks ago)
 - [Setting up PyTorch on Mac M1 GPUs (Apple Metal / MPS)](https://geekmonkey.org/setting-up-jupyter-lab-with-pytorch-on-a-mac-with-gpu/) (2 months ago)
 - [Rethink your git workflow with git-worktree](https://geekmonkey.org/rethink-your-git-workflow-with-git-worktree/) (11 months ago)
 - [Learning to type Dvorak](https://geekmonkey.org/learning-to-type-dvorak/) (1 year ago)
