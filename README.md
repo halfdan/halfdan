@@ -6,11 +6,11 @@ Hi there, I'm Fabian, an open source contributor and software engineer. I have c
 
 #### 👷 Check out what I'm currently working on
 
-- [exercism/elixir](https://github.com/exercism/elixir) - Exercism exercises in Elixir. (1 month ago)
+- [exercism/elixir](https://github.com/exercism/elixir) - Exercism exercises in Elixir. (2 months ago)
 - [halfdan/madewithcode](https://github.com/halfdan/madewithcode) -  (2 months ago)
 - [halfdan/rosalind](https://github.com/halfdan/rosalind) - Solutions to Rosalind exercises - follow my progress at https://madewithco.de (2 months ago)
 - [halfdan/dotfiles](https://github.com/halfdan/dotfiles) - My personal dotfiles used on my Mac and Linux machines (2 months ago)
-- [halfdan/jira.nvim](https://github.com/halfdan/jira.nvim) - An opinionated Jira client for Neovim written in pure Lua (2 months ago)
+- [halfdan/jira.nvim](https://github.com/halfdan/jira.nvim) - An opinionated Jira client for Neovim written in pure Lua (3 months ago)
 
 #### 🌱 My latest projects
 
