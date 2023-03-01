@@ -6,19 +6,19 @@ Hi there, I'm Fabian, an open source contributor and software engineer. I have c
 
 #### 👷 Check out what I'm currently working on
 
+- [halfdan/elixir-crashing-compiler](https://github.com/halfdan/elixir-crashing-compiler) -  (today)
 - [exercism/elixir](https://github.com/exercism/elixir) - Exercism exercises in Elixir. (3 months ago)
 - [halfdan/madewithcode](https://github.com/halfdan/madewithcode) -  (3 months ago)
 - [halfdan/rosalind](https://github.com/halfdan/rosalind) - Solutions to Rosalind exercises - follow my progress at https://madewithco.de (3 months ago)
 - [halfdan/dotfiles](https://github.com/halfdan/dotfiles) - My personal dotfiles used on my Mac and Linux machines (3 months ago)
-- [halfdan/jira.nvim](https://github.com/halfdan/jira.nvim) - An opinionated Jira client for Neovim written in pure Lua (4 months ago)
 
 #### 🌱 My latest projects
 
+- [halfdan/elixir-crashing-compiler](https://github.com/halfdan/elixir-crashing-compiler) - 
 - [halfdan/rosalind](https://github.com/halfdan/rosalind) - Solutions to Rosalind exercises - follow my progress at https://madewithco.de
 - [halfdan/madewithcode](https://github.com/halfdan/madewithcode) - 
 - [halfdan/jira.nvim](https://github.com/halfdan/jira.nvim) - An opinionated Jira client for Neovim written in pure Lua
 - [halfdan/adventofcode2015](https://github.com/halfdan/adventofcode2015) - Solutions for Advent of Code in 2015 (Using Golang)
-- [halfdan/geekmonkey](https://github.com/halfdan/geekmonkey) - Code projects from geekmonkey.org
 
 #### 🔭 Latest releases I've contributed to
 
