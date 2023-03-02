@@ -26,11 +26,11 @@ Hi there, I'm Fabian, an open source contributor and software engineer. I have c
 
 #### 🔨 Latest Pull Requests I published
 
+- [Use `seed` to randomize require order of test files](https://github.com/elixir-lang/elixir/pull/12442) on [elixir-lang/elixir](https://github.com/elixir-lang/elixir) (today)
 - [Correctly document mix test --profile-require option](https://github.com/elixir-lang/elixir/pull/12441) on [elixir-lang/elixir](https://github.com/elixir-lang/elixir) (today)
 - [Change open cmd to default to current directory](https://github.com/exercism/cli/pull/1070) on [exercism/cli](https://github.com/exercism/cli) (3 months ago)
 - [Refactor BufAdd,BufWritePost handling](https://github.com/nvim-neotest/neotest/pull/137) on [nvim-neotest/neotest](https://github.com/nvim-neotest/neotest) (4 months ago)
 - [Fixes bug with string interpolation from 3rd party functions](https://github.com/nvim-lualine/lualine.nvim/pull/880) on [nvim-lualine/lualine.nvim](https://github.com/nvim-lualine/lualine.nvim) (4 months ago)
-- [Pass worktree_path to Create hook](https://github.com/ThePrimeagen/git-worktree.nvim/pull/103) on [ThePrimeagen/git-worktree.nvim](https://github.com/ThePrimeagen/git-worktree.nvim) (4 months ago)
 
 #### 📜 My recent blog posts
 
