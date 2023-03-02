@@ -6,11 +6,11 @@ Hi there, I'm Fabian, an open source contributor and software engineer. I have c
 
 #### 👷 Check out what I'm currently working on
 
+- [elixir-lang/elixir](https://github.com/elixir-lang/elixir) - Elixir is a dynamic, functional language designed for building scalable and maintainable applications (today)
 - [halfdan/elixir-crashing-compiler](https://github.com/halfdan/elixir-crashing-compiler) -  (1 day ago)
 - [exercism/elixir](https://github.com/exercism/elixir) - Exercism exercises in Elixir. (3 months ago)
-- [halfdan/madewithcode](https://github.com/halfdan/madewithcode) -  (3 months ago)
 - [halfdan/rosalind](https://github.com/halfdan/rosalind) - Solutions to Rosalind exercises - follow my progress at https://madewithco.de (3 months ago)
-- [halfdan/dotfiles](https://github.com/halfdan/dotfiles) - My personal dotfiles used on my Mac and Linux machines (3 months ago)
+- [halfdan/madewithcode](https://github.com/halfdan/madewithcode) -  (3 months ago)
 
 #### 🌱 My latest projects
 
@@ -22,6 +22,7 @@ Hi there, I'm Fabian, an open source contributor and software engineer. I have c
 
 #### 🔭 Latest releases I've contributed to
 
+- [elixir-lang/elixir](https://github.com/elixir-lang/elixir) ([v1.14.3](https://github.com/elixir-lang/elixir/releases/tag/v1.14.3), 1 month ago) - Elixir is a dynamic, functional language designed for building scalable and maintainable applications
 
 #### 🔨 Latest Pull Requests I published
 
