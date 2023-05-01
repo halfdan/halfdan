@@ -22,19 +22,19 @@ Hi there, I'm Fabian, an open source contributor and software engineer. I have c
 
 #### 🔭 Latest releases I've contributed to
 
-- [elixir-lang/elixir](https://github.com/elixir-lang/elixir) ([v1.14.4](https://github.com/elixir-lang/elixir/releases/tag/v1.14.4), 3 weeks ago) - Elixir is a dynamic, functional language designed for building scalable and maintainable applications
+- [elixir-lang/elixir](https://github.com/elixir-lang/elixir) ([v1.14.4](https://github.com/elixir-lang/elixir/releases/tag/v1.14.4), 4 weeks ago) - Elixir is a dynamic, functional language designed for building scalable and maintainable applications
 
 #### 🔨 Latest Pull Requests I published
 
-- [Use `seed` to randomize require order of test files](https://github.com/elixir-lang/elixir/pull/12442) on [elixir-lang/elixir](https://github.com/elixir-lang/elixir) (1 month ago)
-- [Correctly document mix test --profile-require option](https://github.com/elixir-lang/elixir/pull/12441) on [elixir-lang/elixir](https://github.com/elixir-lang/elixir) (1 month ago)
+- [Use `seed` to randomize require order of test files](https://github.com/elixir-lang/elixir/pull/12442) on [elixir-lang/elixir](https://github.com/elixir-lang/elixir) (2 months ago)
+- [Correctly document mix test --profile-require option](https://github.com/elixir-lang/elixir/pull/12441) on [elixir-lang/elixir](https://github.com/elixir-lang/elixir) (2 months ago)
 - [Change open cmd to default to current directory](https://github.com/exercism/cli/pull/1070) on [exercism/cli](https://github.com/exercism/cli) (5 months ago)
-- [Refactor BufAdd,BufWritePost handling](https://github.com/nvim-neotest/neotest/pull/137) on [nvim-neotest/neotest](https://github.com/nvim-neotest/neotest) (5 months ago)
+- [Refactor BufAdd,BufWritePost handling](https://github.com/nvim-neotest/neotest/pull/137) on [nvim-neotest/neotest](https://github.com/nvim-neotest/neotest) (6 months ago)
 - [Fixes bug with string interpolation from 3rd party functions](https://github.com/nvim-lualine/lualine.nvim/pull/880) on [nvim-lualine/lualine.nvim](https://github.com/nvim-lualine/lualine.nvim) (6 months ago)
 
 #### 📜 My recent blog posts
 
-- [Detecting unused database columns using Ecto schemas](https://geekmonkey.org/detecting-unused-database-columns-using-ecto-schemas/) (2 days ago)
+- [Detecting unused database columns using Ecto schemas](https://geekmonkey.org/detecting-unused-database-columns-using-ecto-schemas/) (3 days ago)
 - [Names should be descriptive, not cute](https://geekmonkey.org/names-should-be-descriptive-not-cute/) (3 months ago)
 - [Setting up PyTorch on Mac M1 GPUs (Apple Metal / MPS)](https://geekmonkey.org/setting-up-jupyter-lab-with-pytorch-on-a-mac-with-gpu/) (5 months ago)
 - [Rethink your git workflow with git-worktree](https://geekmonkey.org/rethink-your-git-workflow-with-git-worktree/) (1 year ago)
