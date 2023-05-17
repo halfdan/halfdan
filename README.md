@@ -36,7 +36,7 @@ Hi there, I'm Fabian, an open source contributor and software engineer. I have c
 
 - [Detecting unused database columns using Ecto schemas](https://geekmonkey.org/detecting-unused-database-columns-using-ecto-schemas/) (2 weeks ago)
 - [Names should be descriptive, not cute](https://geekmonkey.org/names-should-be-descriptive-not-cute/) (4 months ago)
-- [Setting up PyTorch on Mac M1 GPUs (Apple Metal / MPS)](https://geekmonkey.org/setting-up-jupyter-lab-with-pytorch-on-a-mac-with-gpu/) (5 months ago)
+- [Setting up PyTorch on Mac M1 GPUs (Apple Metal / MPS)](https://geekmonkey.org/setting-up-jupyter-lab-with-pytorch-on-a-mac-with-gpu/) (6 months ago)
 - [Rethink your git workflow with git-worktree](https://geekmonkey.org/rethink-your-git-workflow-with-git-worktree/) (1 year ago)
 - [Learning to type Dvorak](https://geekmonkey.org/learning-to-type-dvorak/) (1 year ago)
 
