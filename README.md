@@ -8,7 +8,7 @@ Hi there, I'm Fabian, an open source contributor and software engineer. I have c
 
 - [elixir-lang/elixir](https://github.com/elixir-lang/elixir) - Elixir is a dynamic, functional language designed for building scalable and maintainable applications (2 months ago)
 - [halfdan/elixir-crashing-compiler](https://github.com/halfdan/elixir-crashing-compiler) -  (2 months ago)
-- [exercism/elixir](https://github.com/exercism/elixir) - Exercism exercises in Elixir. (5 months ago)
+- [exercism/elixir](https://github.com/exercism/elixir) - Exercism exercises in Elixir. (6 months ago)
 - [halfdan/rosalind](https://github.com/halfdan/rosalind) - Solutions to Rosalind exercises - follow my progress at https://madewithco.de (6 months ago)
 - [halfdan/madewithcode](https://github.com/halfdan/madewithcode) -  (6 months ago)
 
@@ -22,7 +22,7 @@ Hi there, I'm Fabian, an open source contributor and software engineer. I have c
 
 #### 🔭 Latest releases I've contributed to
 
-- [elixir-lang/elixir](https://github.com/elixir-lang/elixir) ([v1.14.5](https://github.com/elixir-lang/elixir/releases/tag/v1.14.5), 3 days ago) - Elixir is a dynamic, functional language designed for building scalable and maintainable applications
+- [elixir-lang/elixir](https://github.com/elixir-lang/elixir) ([v1.14.5](https://github.com/elixir-lang/elixir/releases/tag/v1.14.5), 4 days ago) - Elixir is a dynamic, functional language designed for building scalable and maintainable applications
 
 #### 🔨 Latest Pull Requests I published
 
@@ -34,7 +34,7 @@ Hi there, I'm Fabian, an open source contributor and software engineer. I have c
 
 #### 📜 My recent blog posts
 
-- [Detecting unused database columns using Ecto schemas](https://geekmonkey.org/detecting-unused-database-columns-using-ecto-schemas/) (3 weeks ago)
+- [Detecting unused database columns using Ecto schemas](https://geekmonkey.org/detecting-unused-database-columns-using-ecto-schemas/) (4 weeks ago)
 - [Names should be descriptive, not cute](https://geekmonkey.org/names-should-be-descriptive-not-cute/) (4 months ago)
 - [Setting up PyTorch on Mac M1 GPUs (Apple Metal / MPS)](https://geekmonkey.org/setting-up-jupyter-lab-with-pytorch-on-a-mac-with-gpu/) (6 months ago)
 - [Rethink your git workflow with git-worktree](https://geekmonkey.org/rethink-your-git-workflow-with-git-worktree/) (1 year ago)
