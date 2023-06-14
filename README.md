@@ -22,7 +22,7 @@ Hi there, I'm Fabian, an open source contributor and software engineer. I have c
 
 #### 🔭 Latest releases I've contributed to
 
-- [elixir-lang/elixir](https://github.com/elixir-lang/elixir) ([v1.15.0-rc.2](https://github.com/elixir-lang/elixir/releases/tag/v1.15.0-rc.2), 1 day ago) - Elixir is a dynamic, functional language for building scalable and maintainable applications
+- [elixir-lang/elixir](https://github.com/elixir-lang/elixir) ([v1.15.0-rc.2](https://github.com/elixir-lang/elixir/releases/tag/v1.15.0-rc.2), 2 days ago) - Elixir is a dynamic, functional language for building scalable and maintainable applications
 
 #### 🔨 Latest Pull Requests I published
 
