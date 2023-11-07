@@ -22,7 +22,7 @@ Hi there, I'm Fabian, an open source contributor and software engineer. I have c
 
 #### 🔭 Latest releases I've contributed to
 
-- [elixir-lang/elixir](https://github.com/elixir-lang/elixir) ([v1.16.0-rc.0](https://github.com/elixir-lang/elixir/releases/tag/v1.16.0-rc.0), 6 days ago) - Elixir is a dynamic, functional language for building scalable and maintainable applications
+- [elixir-lang/elixir](https://github.com/elixir-lang/elixir) ([v1.16.0-rc.0](https://github.com/elixir-lang/elixir/releases/tag/v1.16.0-rc.0), 1 week ago) - Elixir is a dynamic, functional language for building scalable and maintainable applications
 
 #### 🔨 Latest Pull Requests I published
 
@@ -35,7 +35,7 @@ Hi there, I'm Fabian, an open source contributor and software engineer. I have c
 #### 📜 My recent blog posts
 
 - [Detecting unused database columns using Ecto schemas](https://geekmonkey.org/detecting-unused-database-columns-using-ecto-schemas/) (6 months ago)
-- [Names should be descriptive, not cute](https://geekmonkey.org/names-should-be-descriptive-not-cute/) (9 months ago)
+- [Names should be descriptive, not cute](https://geekmonkey.org/names-should-be-descriptive-not-cute/) (10 months ago)
 - [Setting up PyTorch on Mac M1 GPUs (Apple Metal / MPS)](https://geekmonkey.org/setting-up-jupyter-lab-with-pytorch-on-a-mac-with-gpu/) (11 months ago)
 - [Rethink your git workflow with git-worktree](https://geekmonkey.org/rethink-your-git-workflow-with-git-worktree/) (2 years ago)
 - [Learning to type Dvorak](https://geekmonkey.org/learning-to-type-dvorak/) (2 years ago)
