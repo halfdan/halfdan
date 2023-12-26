@@ -8,7 +8,7 @@ Hi there, I'm Fabian, an open source contributor and software engineer. I have c
 
 - [halfdan/dotfiles](https://github.com/halfdan/dotfiles) - My personal dotfiles used on my Mac and Linux machines (1 week ago)
 - [elixir-lang/elixir](https://github.com/elixir-lang/elixir) - Elixir is a dynamic, functional language for building scalable and maintainable applications (9 months ago)
-- [halfdan/elixir-crashing-compiler](https://github.com/halfdan/elixir-crashing-compiler) -  (9 months ago)
+- [halfdan/elixir-crashing-compiler](https://github.com/halfdan/elixir-crashing-compiler) -  (10 months ago)
 
 #### 🌱 My latest projects
 
@@ -20,7 +20,7 @@ Hi there, I'm Fabian, an open source contributor and software engineer. I have c
 
 #### 🔭 Latest releases I've contributed to
 
-- [elixir-lang/elixir](https://github.com/elixir-lang/elixir) ([v1.16.0](https://github.com/elixir-lang/elixir/releases/tag/v1.16.0), 3 days ago) - Elixir is a dynamic, functional language for building scalable and maintainable applications
+- [elixir-lang/elixir](https://github.com/elixir-lang/elixir) ([v1.16.0](https://github.com/elixir-lang/elixir/releases/tag/v1.16.0), 4 days ago) - Elixir is a dynamic, functional language for building scalable and maintainable applications
 
 #### 🔨 Latest Pull Requests I published
 
