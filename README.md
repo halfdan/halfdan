@@ -19,7 +19,7 @@ Hi there, I'm Fabian, an open source contributor and software engineer. I have c
 
 #### 🔭 Latest releases I've contributed to
 
-- [Frameio/cereal_ex](https://github.com/Frameio/cereal_ex) ([v1.4.0](https://github.com/Frameio/cereal_ex/releases/tag/v1.4.0), today) - A pluggable JSON serialization library for Elixir
+- [Frameio/cereal_ex](https://github.com/Frameio/cereal_ex) ([v1.4.1](https://github.com/Frameio/cereal_ex/releases/tag/v1.4.1), today) - A pluggable JSON serialization library for Elixir
 
 #### 🔨 Latest Pull Requests I published
 
