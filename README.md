@@ -6,7 +6,7 @@ Hi there, I'm Fabian, an open source contributor and software engineer. I have c
 
 #### 👷 Check out what I'm currently working on
 
-- [Frameio/cereal_ex](https://github.com/Frameio/cereal_ex) - A pluggable JSON serialization library for Elixir (today)
+- [Frameio/cereal_ex](https://github.com/Frameio/cereal_ex) - A pluggable JSON serialization library for Elixir (1 day ago)
 - [halfdan/dotfiles](https://github.com/halfdan/dotfiles) - My personal dotfiles used on my Mac and Linux machines (2 months ago)
 
 #### 🌱 My latest projects
@@ -19,11 +19,11 @@ Hi there, I'm Fabian, an open source contributor and software engineer. I have c
 
 #### 🔭 Latest releases I've contributed to
 
-- [Frameio/cereal_ex](https://github.com/Frameio/cereal_ex) ([v1.4.1](https://github.com/Frameio/cereal_ex/releases/tag/v1.4.1), today) - A pluggable JSON serialization library for Elixir
+- [Frameio/cereal_ex](https://github.com/Frameio/cereal_ex) ([v1.4.1](https://github.com/Frameio/cereal_ex/releases/tag/v1.4.1), 1 day ago) - A pluggable JSON serialization library for Elixir
 
 #### 🔨 Latest Pull Requests I published
 
-- [[BES-1586] async_stream format / build phase of serializer](https://github.com/Frameio/cereal_ex/pull/20) on [Frameio/cereal_ex](https://github.com/Frameio/cereal_ex) (1 day ago)
+- [[BES-1586] async_stream format / build phase of serializer](https://github.com/Frameio/cereal_ex/pull/20) on [Frameio/cereal_ex](https://github.com/Frameio/cereal_ex) (2 days ago)
 - [Use `seed` to randomize require order of test files](https://github.com/elixir-lang/elixir/pull/12442) on [elixir-lang/elixir](https://github.com/elixir-lang/elixir) (1 year ago)
 - [Correctly document mix test --profile-require option](https://github.com/elixir-lang/elixir/pull/12441) on [elixir-lang/elixir](https://github.com/elixir-lang/elixir) (1 year ago)
 - [Change open cmd to default to current directory](https://github.com/exercism/cli/pull/1070) on [exercism/cli](https://github.com/exercism/cli) (1 year ago)
