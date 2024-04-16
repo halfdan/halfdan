@@ -7,7 +7,7 @@ Hi there, I'm Fabian, an open source contributor and software engineer. I have c
 #### 👷 Check out what I'm currently working on
 
 - [Frameio/cereal_ex](https://github.com/Frameio/cereal_ex) - A pluggable JSON serialization library for Elixir (1 month ago)
-- [halfdan/dotfiles](https://github.com/halfdan/dotfiles) - My personal dotfiles used on my Mac and Linux machines (3 months ago)
+- [halfdan/dotfiles](https://github.com/halfdan/dotfiles) - My personal dotfiles used on my Mac and Linux machines (4 months ago)
 
 #### 🌱 My latest projects
 
