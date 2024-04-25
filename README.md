@@ -27,7 +27,7 @@ Hi there, I'm Fabian, an open source contributor and software engineer. I have c
 - [Use `seed` to randomize require order of test files](https://github.com/elixir-lang/elixir/pull/12442) on [elixir-lang/elixir](https://github.com/elixir-lang/elixir) (1 year ago)
 - [Correctly document mix test --profile-require option](https://github.com/elixir-lang/elixir/pull/12441) on [elixir-lang/elixir](https://github.com/elixir-lang/elixir) (1 year ago)
 - [Change open cmd to default to current directory](https://github.com/exercism/cli/pull/1070) on [exercism/cli](https://github.com/exercism/cli) (1 year ago)
-- [Refactor BufAdd,BufWritePost handling](https://github.com/nvim-neotest/neotest/pull/137) on [nvim-neotest/neotest](https://github.com/nvim-neotest/neotest) (1 year ago)
+- [Refactor BufAdd,BufWritePost handling](https://github.com/nvim-neotest/neotest/pull/137) on [nvim-neotest/neotest](https://github.com/nvim-neotest/neotest) (2 years ago)
 
 #### 📜 My recent blog posts
 
