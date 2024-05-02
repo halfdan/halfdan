@@ -6,6 +6,7 @@ Hi there, I'm Fabian, an open source contributor and software engineer. I have c
 
 #### 👷 Check out what I'm currently working on
 
+- [exercism/cli](https://github.com/exercism/cli) - A Go based command line tool for exercism.org. (today)
 - [Frameio/cereal_ex](https://github.com/Frameio/cereal_ex) - A pluggable JSON serialization library for Elixir (1 month ago)
 - [halfdan/dotfiles](https://github.com/halfdan/dotfiles) - My personal dotfiles used on my Mac and Linux machines (4 months ago)
 
@@ -20,6 +21,7 @@ Hi there, I'm Fabian, an open source contributor and software engineer. I have c
 #### 🔭 Latest releases I've contributed to
 
 - [Frameio/cereal_ex](https://github.com/Frameio/cereal_ex) ([v1.4.1](https://github.com/Frameio/cereal_ex/releases/tag/v1.4.1), 1 month ago) - A pluggable JSON serialization library for Elixir
+- [exercism/cli](https://github.com/exercism/cli) ([v3.3.0](https://github.com/exercism/cli/releases/tag/v3.3.0), 2 months ago) - A Go based command line tool for exercism.org.
 
 #### 🔨 Latest Pull Requests I published
 
