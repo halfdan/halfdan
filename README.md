@@ -20,7 +20,7 @@ Hi there, I'm Fabian, an open source contributor and software engineer. I have c
 
 #### 🔭 Latest releases I've contributed to
 
-- [exercism/cli](https://github.com/exercism/cli) ([v3.4.0](https://github.com/exercism/cli/releases/tag/v3.4.0), 1 day ago) - A Go based command line tool for exercism.org.
+- [exercism/cli](https://github.com/exercism/cli) ([v3.4.0](https://github.com/exercism/cli/releases/tag/v3.4.0), 2 days ago) - A Go based command line tool for exercism.org.
 - [Frameio/cereal_ex](https://github.com/Frameio/cereal_ex) ([v1.4.1](https://github.com/Frameio/cereal_ex/releases/tag/v1.4.1), 1 month ago) - A pluggable JSON serialization library for Elixir
 
 #### 🔨 Latest Pull Requests I published
@@ -35,7 +35,7 @@ Hi there, I'm Fabian, an open source contributor and software engineer. I have c
 
 - [Detecting unused database columns using Ecto schemas](https://geekmonkey.org/detecting-unused-database-columns-using-ecto-schemas/) (1 year ago)
 - [Names should be descriptive, not cute](https://geekmonkey.org/names-should-be-descriptive-not-cute/) (1 year ago)
-- [Setting up PyTorch on Mac M1 GPUs (Apple Metal / MPS)](https://geekmonkey.org/setting-up-jupyter-lab-with-pytorch-on-a-mac-with-gpu/) (1 year ago)
+- [Setting up PyTorch on Mac M1 GPUs (Apple Metal / MPS)](https://geekmonkey.org/setting-up-jupyter-lab-with-pytorch-on-a-mac-with-gpu/) (2 years ago)
 - [Rethink your git workflow with git-worktree](https://geekmonkey.org/rethink-your-git-workflow-with-git-worktree/) (2 years ago)
 - [Learning to type Dvorak](https://geekmonkey.org/learning-to-type-dvorak/) (2 years ago)
 
