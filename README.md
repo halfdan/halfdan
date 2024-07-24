@@ -25,7 +25,7 @@ Hi there, I'm Fabian, an open source contributor and software engineer. I have c
 
 #### 🔨 Latest Pull Requests I published
 
-- [Unlock Broadway Kafka](https://github.com/BigThinkcode/ex_aws_msk_iam_auth/pull/1) on [BigThinkcode/ex_aws_msk_iam_auth](https://github.com/BigThinkcode/ex_aws_msk_iam_auth) (6 days ago)
+- [Unlock Broadway Kafka](https://github.com/BigThinkcode/ex_aws_msk_iam_auth/pull/1) on [BigThinkcode/ex_aws_msk_iam_auth](https://github.com/BigThinkcode/ex_aws_msk_iam_auth) (1 week ago)
 - [[BES-1586] async_stream format / build phase of serializer](https://github.com/Frameio/cereal_ex/pull/20) on [Frameio/cereal_ex](https://github.com/Frameio/cereal_ex) (4 months ago)
 - [Use `seed` to randomize require order of test files](https://github.com/elixir-lang/elixir/pull/12442) on [elixir-lang/elixir](https://github.com/elixir-lang/elixir) (1 year ago)
 - [Correctly document mix test --profile-require option](https://github.com/elixir-lang/elixir/pull/12441) on [elixir-lang/elixir](https://github.com/elixir-lang/elixir) (1 year ago)
