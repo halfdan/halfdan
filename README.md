@@ -6,7 +6,7 @@ Hi there, I'm Fabian, an open source contributor and software engineer. I have c
 
 #### 👷 Check out what I'm currently working on
 
-- [halfdan/kafka_msk_auth](https://github.com/halfdan/kafka_msk_auth) - AWS_MSK_IAM Authentication Plugin for Broadway Kafka and brod (3 days ago)
+- [halfdan/kafka_msk_auth](https://github.com/halfdan/kafka_msk_auth) - AWS_MSK_IAM Authentication Plugin for Broadway Kafka and brod (4 days ago)
 - [exercism/cli](https://github.com/exercism/cli) - A Go based command line tool for exercism.org. (3 months ago)
 - [Frameio/cereal_ex](https://github.com/Frameio/cereal_ex) - A pluggable JSON serialization library for Elixir (4 months ago)
 - [halfdan/dotfiles](https://github.com/halfdan/dotfiles) - My personal dotfiles used on my Mac and Linux machines (7 months ago)
@@ -26,7 +26,7 @@ Hi there, I'm Fabian, an open source contributor and software engineer. I have c
 
 #### 🔨 Latest Pull Requests I published
 
-- [Create elixir.yml](https://github.com/halfdan/kafka_msk_auth/pull/1) on [halfdan/kafka_msk_auth](https://github.com/halfdan/kafka_msk_auth) (4 days ago)
+- [Create elixir.yml](https://github.com/halfdan/kafka_msk_auth/pull/1) on [halfdan/kafka_msk_auth](https://github.com/halfdan/kafka_msk_auth) (5 days ago)
 - [Unlock Broadway Kafka](https://github.com/BigThinkcode/ex_aws_msk_iam_auth/pull/1) on [BigThinkcode/ex_aws_msk_iam_auth](https://github.com/BigThinkcode/ex_aws_msk_iam_auth) (2 weeks ago)
 - [[BES-1586] async_stream format / build phase of serializer](https://github.com/Frameio/cereal_ex/pull/20) on [Frameio/cereal_ex](https://github.com/Frameio/cereal_ex) (4 months ago)
 - [Use `seed` to randomize require order of test files](https://github.com/elixir-lang/elixir/pull/12442) on [elixir-lang/elixir](https://github.com/elixir-lang/elixir) (1 year ago)
