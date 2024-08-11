@@ -8,7 +8,7 @@ Hi there, I'm Fabian, an open source contributor and software engineer. I have c
 
 - [halfdan/kafka_msk_auth](https://github.com/halfdan/kafka_msk_auth) - AWS_MSK_IAM Authentication Plugin for Broadway Kafka and brod (1 week ago)
 - [exercism/cli](https://github.com/exercism/cli) - A Go based command line tool for exercism.org. (3 months ago)
-- [Frameio/cereal_ex](https://github.com/Frameio/cereal_ex) - A pluggable JSON serialization library for Elixir (4 months ago)
+- [Frameio/cereal_ex](https://github.com/Frameio/cereal_ex) - A pluggable JSON serialization library for Elixir (5 months ago)
 - [halfdan/dotfiles](https://github.com/halfdan/dotfiles) - My personal dotfiles used on my Mac and Linux machines (7 months ago)
 
 #### 🌱 My latest projects
@@ -22,7 +22,7 @@ Hi there, I'm Fabian, an open source contributor and software engineer. I have c
 #### 🔭 Latest releases I've contributed to
 
 - [exercism/cli](https://github.com/exercism/cli) ([v3.4.0](https://github.com/exercism/cli/releases/tag/v3.4.0), 3 months ago) - A Go based command line tool for exercism.org.
-- [Frameio/cereal_ex](https://github.com/Frameio/cereal_ex) ([v1.4.1](https://github.com/Frameio/cereal_ex/releases/tag/v1.4.1), 4 months ago) - A pluggable JSON serialization library for Elixir
+- [Frameio/cereal_ex](https://github.com/Frameio/cereal_ex) ([v1.4.1](https://github.com/Frameio/cereal_ex/releases/tag/v1.4.1), 5 months ago) - A pluggable JSON serialization library for Elixir
 
 #### 🔨 Latest Pull Requests I published
 
@@ -34,7 +34,7 @@ Hi there, I'm Fabian, an open source contributor and software engineer. I have c
 
 #### 📜 My recent blog posts
 
-- [How to update multiple records with different values in Ecto.Repo.update_all](https://geekmonkey.org/updating-multiple-records-with-different-values-in-ecto-repo-update_all/) (5 days ago)
+- [How to update multiple records with different values in Ecto.Repo.update_all](https://geekmonkey.org/updating-multiple-records-with-different-values-in-ecto-repo-update_all/) (6 days ago)
 - [Detecting unused database columns using Ecto schemas](https://geekmonkey.org/detecting-unused-database-columns-using-ecto-schemas/) (1 year ago)
 - [Names should be descriptive, not cute](https://geekmonkey.org/names-should-be-descriptive-not-cute/) (2 years ago)
 - [Setting up PyTorch on Mac M1 GPUs (Apple Metal / MPS)](https://geekmonkey.org/setting-up-jupyter-lab-with-pytorch-on-a-mac-with-gpu/) (2 years ago)
