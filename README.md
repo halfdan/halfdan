@@ -6,7 +6,7 @@ Hi there, I'm Fabian, an open source contributor and software engineer. I have c
 
 #### 👷 Check out what I'm currently working on
 
-- [halfdan/dotfiles](https://github.com/halfdan/dotfiles) - My personal dotfiles used on my Mac and Linux machines (5 days ago)
+- [halfdan/dotfiles](https://github.com/halfdan/dotfiles) - My personal dotfiles used on my Mac and Linux machines (6 days ago)
 - [halfdan/kafka_msk_auth](https://github.com/halfdan/kafka_msk_auth) - AWS_MSK_IAM Authentication Plugin for Broadway Kafka and brod (2 weeks ago)
 - [exercism/cli](https://github.com/exercism/cli) - A Go based command line tool for exercism.org. (3 months ago)
 - [Frameio/cereal_ex](https://github.com/Frameio/cereal_ex) - A pluggable JSON serialization library for Elixir (5 months ago)
@@ -21,12 +21,12 @@ Hi there, I'm Fabian, an open source contributor and software engineer. I have c
 
 #### 🔭 Latest releases I've contributed to
 
-- [exercism/cli](https://github.com/exercism/cli) ([v3.4.1](https://github.com/exercism/cli/releases/tag/v3.4.1), 4 days ago) - A Go based command line tool for exercism.org.
+- [exercism/cli](https://github.com/exercism/cli) ([v3.4.1](https://github.com/exercism/cli/releases/tag/v3.4.1), 5 days ago) - A Go based command line tool for exercism.org.
 - [Frameio/cereal_ex](https://github.com/Frameio/cereal_ex) ([v1.4.1](https://github.com/Frameio/cereal_ex/releases/tag/v1.4.1), 5 months ago) - A pluggable JSON serialization library for Elixir
 
 #### 🔨 Latest Pull Requests I published
 
-- [Create elixir.yml](https://github.com/halfdan/kafka_msk_auth/pull/1) on [halfdan/kafka_msk_auth](https://github.com/halfdan/kafka_msk_auth) (2 weeks ago)
+- [Create elixir.yml](https://github.com/halfdan/kafka_msk_auth/pull/1) on [halfdan/kafka_msk_auth](https://github.com/halfdan/kafka_msk_auth) (3 weeks ago)
 - [Unlock Broadway Kafka](https://github.com/BigThinkcode/ex_aws_msk_iam_auth/pull/1) on [BigThinkcode/ex_aws_msk_iam_auth](https://github.com/BigThinkcode/ex_aws_msk_iam_auth) (1 month ago)
 - [[BES-1586] async_stream format / build phase of serializer](https://github.com/Frameio/cereal_ex/pull/20) on [Frameio/cereal_ex](https://github.com/Frameio/cereal_ex) (5 months ago)
 - [Use `seed` to randomize require order of test files](https://github.com/elixir-lang/elixir/pull/12442) on [elixir-lang/elixir](https://github.com/elixir-lang/elixir) (1 year ago)
