@@ -6,8 +6,8 @@ Hi there, I'm Fabian, an open source contributor and software engineer. I have c
 
 #### 👷 Check out what I'm currently working on
 
-- [adobe/elixir-styler](https://github.com/adobe/elixir-styler) - An @elixir-lang code-style enforcer that will just FIFY instead of complaining (1 day ago)
-- [halfdan/dotfiles](https://github.com/halfdan/dotfiles) - My personal dotfiles used on my Mac and Linux machines (3 days ago)
+- [adobe/elixir-styler](https://github.com/adobe/elixir-styler) - An @elixir-lang code-style enforcer that will just FIFY instead of complaining (2 days ago)
+- [halfdan/dotfiles](https://github.com/halfdan/dotfiles) - My personal dotfiles used on my Mac and Linux machines (4 days ago)
 - [halfdan/kafka_msk_auth](https://github.com/halfdan/kafka_msk_auth) - AWS_MSK_IAM Authentication Plugin for Broadway Kafka and brod (6 months ago)
 - [exercism/cli](https://github.com/exercism/cli) - A Go based command line tool for exercism.org. (9 months ago)
 - [Frameio/cereal_ex](https://github.com/Frameio/cereal_ex) - A pluggable JSON serialization library for Elixir (11 months ago)
@@ -22,13 +22,13 @@ Hi there, I'm Fabian, an open source contributor and software engineer. I have c
 
 #### 🔭 Latest releases I've contributed to
 
-- [adobe/elixir-styler](https://github.com/adobe/elixir-styler) ([v1.4.0](https://github.com/adobe/elixir-styler/releases/tag/v1.4.0), 1 day ago) - An @elixir-lang code-style enforcer that will just FIFY instead of complaining
+- [adobe/elixir-styler](https://github.com/adobe/elixir-styler) ([v1.4.0](https://github.com/adobe/elixir-styler/releases/tag/v1.4.0), 2 days ago) - An @elixir-lang code-style enforcer that will just FIFY instead of complaining
 - [exercism/cli](https://github.com/exercism/cli) ([v3.5.4](https://github.com/exercism/cli/releases/tag/v3.5.4), 3 months ago) - A Go based command line tool for exercism.org.
 - [Frameio/cereal_ex](https://github.com/Frameio/cereal_ex) ([v1.4.1](https://github.com/Frameio/cereal_ex/releases/tag/v1.4.1), 11 months ago) - A pluggable JSON serialization library for Elixir
 
 #### 🔨 Latest Pull Requests I published
 
-- [Add OTP26/27 but only run for 1.17/1.18](https://github.com/adobe/elixir-styler/pull/222) on [adobe/elixir-styler](https://github.com/adobe/elixir-styler) (1 day ago)
+- [Add OTP26/27 but only run for 1.17/1.18](https://github.com/adobe/elixir-styler/pull/222) on [adobe/elixir-styler](https://github.com/adobe/elixir-styler) (2 days ago)
 - [Create elixir.yml](https://github.com/halfdan/kafka_msk_auth/pull/1) on [halfdan/kafka_msk_auth](https://github.com/halfdan/kafka_msk_auth) (6 months ago)
 - [Unlock Broadway Kafka](https://github.com/BigThinkcode/ex_aws_msk_iam_auth/pull/1) on [BigThinkcode/ex_aws_msk_iam_auth](https://github.com/BigThinkcode/ex_aws_msk_iam_auth) (7 months ago)
 - [[BES-1586] async_stream format / build phase of serializer](https://github.com/Frameio/cereal_ex/pull/20) on [Frameio/cereal_ex](https://github.com/Frameio/cereal_ex) (11 months ago)
