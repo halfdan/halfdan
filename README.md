@@ -22,10 +22,10 @@ Hi there, I'm Fabian, an open source contributor and software engineer. I have c
 
 #### 🔭 Latest releases I've contributed to
 
+- [stephenmoloney/scrivener_list](https://github.com/stephenmoloney/scrivener_list) ([2.1.1](https://github.com/stephenmoloney/scrivener_list/releases/tag/2.1.1), today) - A Scrivener compatible extension that allows pagination of a list of elements.
 - [adobe/elixir-styler](https://github.com/adobe/elixir-styler) ([v1.4.0](https://github.com/adobe/elixir-styler/releases/tag/v1.4.0), 3 days ago) - An @elixir-lang code-style enforcer that will just FIFY instead of complaining
 - [exercism/cli](https://github.com/exercism/cli) ([v3.5.4](https://github.com/exercism/cli/releases/tag/v3.5.4), 3 months ago) - A Go based command line tool for exercism.org.
 - [Frameio/cereal_ex](https://github.com/Frameio/cereal_ex) ([v1.4.1](https://github.com/Frameio/cereal_ex/releases/tag/v1.4.1), 11 months ago) - A pluggable JSON serialization library for Elixir
-- [stephenmoloney/scrivener_list](https://github.com/stephenmoloney/scrivener_list) ([2.0.0](https://github.com/stephenmoloney/scrivener_list/releases/tag/2.0.0), 6 years ago) - A Scrivener compatible extension that allows pagination of a list of elements.
 
 #### 🔨 Latest Pull Requests I published
 
