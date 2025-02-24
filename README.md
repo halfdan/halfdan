@@ -29,11 +29,11 @@ Hi there, I'm Fabian, an open source contributor and software engineer. I have c
 
 #### 🔨 Latest Pull Requests I published
 
+- [Handle pagination on empty list](https://github.com/stephenmoloney/scrivener_list/pull/14) on [stephenmoloney/scrivener_list](https://github.com/stephenmoloney/scrivener_list) (today)
+- [Drop support for scrivener_ecto 1.x and restrict to ~&gt; 3.x/~&gt; 2.7](https://github.com/stephenmoloney/scrivener_list/pull/13) on [stephenmoloney/scrivener_list](https://github.com/stephenmoloney/scrivener_list) (today)
 - [Move from travis ci to Github actions](https://github.com/stephenmoloney/scrivener_list/pull/11) on [stephenmoloney/scrivener_list](https://github.com/stephenmoloney/scrivener_list) (today)
 - [Make JSON library configurable, default to Jason](https://github.com/Frameio/exlasticsearch/pull/36) on [Frameio/exlasticsearch](https://github.com/Frameio/exlasticsearch) (today)
 - [Add OTP26/27 but only run for 1.17/1.18](https://github.com/adobe/elixir-styler/pull/222) on [adobe/elixir-styler](https://github.com/adobe/elixir-styler) (3 days ago)
-- [Create elixir.yml](https://github.com/halfdan/kafka_msk_auth/pull/1) on [halfdan/kafka_msk_auth](https://github.com/halfdan/kafka_msk_auth) (6 months ago)
-- [Unlock Broadway Kafka](https://github.com/BigThinkcode/ex_aws_msk_iam_auth/pull/1) on [BigThinkcode/ex_aws_msk_iam_auth](https://github.com/BigThinkcode/ex_aws_msk_iam_auth) (7 months ago)
 
 #### 📜 My recent blog posts
 
