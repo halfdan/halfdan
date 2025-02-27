@@ -6,9 +6,9 @@ Hi there, I'm Fabian, an open source contributor and software engineer. I have c
 
 #### 👷 Check out what I'm currently working on
 
-- [werbitzky/elastix](https://github.com/werbitzky/elastix) - A simple Elasticsearch REST client written in Elixir. (1 day ago)
-- [stephenmoloney/scrivener_list](https://github.com/stephenmoloney/scrivener_list) - A Scrivener compatible extension that allows pagination of a list of elements. (2 days ago)
-- [adobe/elixir-styler](https://github.com/adobe/elixir-styler) - An @elixir-lang code-style enforcer that will just FIFY instead of complaining (5 days ago)
+- [werbitzky/elastix](https://github.com/werbitzky/elastix) - A simple Elasticsearch REST client written in Elixir. (2 days ago)
+- [stephenmoloney/scrivener_list](https://github.com/stephenmoloney/scrivener_list) - A Scrivener compatible extension that allows pagination of a list of elements. (3 days ago)
+- [adobe/elixir-styler](https://github.com/adobe/elixir-styler) - An @elixir-lang code-style enforcer that will just FIFY instead of complaining (6 days ago)
 - [halfdan/dotfiles](https://github.com/halfdan/dotfiles) - My personal dotfiles used on my Mac and Linux machines (1 week ago)
 - [halfdan/kafka_msk_auth](https://github.com/halfdan/kafka_msk_auth) - AWS_MSK_IAM Authentication Plugin for Broadway Kafka and brod (7 months ago)
 
@@ -22,19 +22,19 @@ Hi there, I'm Fabian, an open source contributor and software engineer. I have c
 
 #### 🔭 Latest releases I've contributed to
 
-- [stephenmoloney/scrivener_list](https://github.com/stephenmoloney/scrivener_list) ([2.1.1](https://github.com/stephenmoloney/scrivener_list/releases/tag/2.1.1), 2 days ago) - A Scrivener compatible extension that allows pagination of a list of elements.
-- [adobe/elixir-styler](https://github.com/adobe/elixir-styler) ([v1.4.0](https://github.com/adobe/elixir-styler/releases/tag/v1.4.0), 5 days ago) - An @elixir-lang code-style enforcer that will just FIFY instead of complaining
+- [stephenmoloney/scrivener_list](https://github.com/stephenmoloney/scrivener_list) ([2.1.1](https://github.com/stephenmoloney/scrivener_list/releases/tag/2.1.1), 3 days ago) - A Scrivener compatible extension that allows pagination of a list of elements.
+- [adobe/elixir-styler](https://github.com/adobe/elixir-styler) ([v1.4.0](https://github.com/adobe/elixir-styler/releases/tag/v1.4.0), 6 days ago) - An @elixir-lang code-style enforcer that will just FIFY instead of complaining
 - [exercism/cli](https://github.com/exercism/cli) ([v3.5.4](https://github.com/exercism/cli/releases/tag/v3.5.4), 3 months ago) - A Go based command line tool for exercism.org.
 - [Frameio/cereal_ex](https://github.com/Frameio/cereal_ex) ([v1.4.1](https://github.com/Frameio/cereal_ex/releases/tag/v1.4.1), 11 months ago) - A pluggable JSON serialization library for Elixir
 - [werbitzky/elastix](https://github.com/werbitzky/elastix) ([v0.4.0](https://github.com/werbitzky/elastix/releases/tag/v0.4.0), 7 years ago) - A simple Elasticsearch REST client written in Elixir.
 
 #### 🔨 Latest Pull Requests I published
 
-- [Format codebase with styler and run credo in CI](https://github.com/werbitzky/elastix/pull/79) on [werbitzky/elastix](https://github.com/werbitzky/elastix) (1 day ago)
-- [Update dependencies, use Github Actions, change to MIT license](https://github.com/werbitzky/elastix/pull/77) on [werbitzky/elastix](https://github.com/werbitzky/elastix) (1 day ago)
-- [Add Github Actions workflow](https://github.com/Frameio/cereal_ex/pull/22) on [Frameio/cereal_ex](https://github.com/Frameio/cereal_ex) (2 days ago)
-- [Handle pagination on empty list](https://github.com/stephenmoloney/scrivener_list/pull/14) on [stephenmoloney/scrivener_list](https://github.com/stephenmoloney/scrivener_list) (2 days ago)
-- [Drop support for scrivener_ecto 1.x and restrict to ~&gt; 3.x/~&gt; 2.7](https://github.com/stephenmoloney/scrivener_list/pull/13) on [stephenmoloney/scrivener_list](https://github.com/stephenmoloney/scrivener_list) (2 days ago)
+- [Format codebase with styler and run credo in CI](https://github.com/werbitzky/elastix/pull/79) on [werbitzky/elastix](https://github.com/werbitzky/elastix) (2 days ago)
+- [Update dependencies, use Github Actions, change to MIT license](https://github.com/werbitzky/elastix/pull/77) on [werbitzky/elastix](https://github.com/werbitzky/elastix) (2 days ago)
+- [Add Github Actions workflow](https://github.com/Frameio/cereal_ex/pull/22) on [Frameio/cereal_ex](https://github.com/Frameio/cereal_ex) (3 days ago)
+- [Handle pagination on empty list](https://github.com/stephenmoloney/scrivener_list/pull/14) on [stephenmoloney/scrivener_list](https://github.com/stephenmoloney/scrivener_list) (3 days ago)
+- [Drop support for scrivener_ecto 1.x and restrict to ~&gt; 3.x/~&gt; 2.7](https://github.com/stephenmoloney/scrivener_list/pull/13) on [stephenmoloney/scrivener_list](https://github.com/stephenmoloney/scrivener_list) (3 days ago)
 
 #### 📜 My recent blog posts
 
