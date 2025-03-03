@@ -6,11 +6,11 @@ Hi there, I'm Fabian, an open source contributor and software engineer. I have c
 
 #### 👷 Check out what I'm currently working on
 
+- [Frameio/exlasticsearch](https://github.com/Frameio/exlasticsearch) - Elixir Elasticsearch DSL with ecto mapping built in (today)
 - [werbitzky/elastix](https://github.com/werbitzky/elastix) - A simple Elasticsearch REST client written in Elixir. (6 days ago)
 - [stephenmoloney/scrivener_list](https://github.com/stephenmoloney/scrivener_list) - A Scrivener compatible extension that allows pagination of a list of elements. (1 week ago)
 - [adobe/elixir-styler](https://github.com/adobe/elixir-styler) - An @elixir-lang code-style enforcer that will just FIFY instead of complaining (1 week ago)
 - [halfdan/dotfiles](https://github.com/halfdan/dotfiles) - My personal dotfiles used on my Mac and Linux machines (1 week ago)
-- [halfdan/kafka_msk_auth](https://github.com/halfdan/kafka_msk_auth) - AWS_MSK_IAM Authentication Plugin for Broadway Kafka and brod (7 months ago)
 
 #### 🌱 My latest projects
 
@@ -26,7 +26,7 @@ Hi there, I'm Fabian, an open source contributor and software engineer. I have c
 - [adobe/elixir-styler](https://github.com/adobe/elixir-styler) ([v1.4.0](https://github.com/adobe/elixir-styler/releases/tag/v1.4.0), 1 week ago) - An @elixir-lang code-style enforcer that will just FIFY instead of complaining
 - [exercism/cli](https://github.com/exercism/cli) ([v3.5.4](https://github.com/exercism/cli/releases/tag/v3.5.4), 3 months ago) - A Go based command line tool for exercism.org.
 - [Frameio/cereal_ex](https://github.com/Frameio/cereal_ex) ([v1.4.1](https://github.com/Frameio/cereal_ex/releases/tag/v1.4.1), 11 months ago) - A pluggable JSON serialization library for Elixir
-- [werbitzky/elastix](https://github.com/werbitzky/elastix) ([v0.4.0](https://github.com/werbitzky/elastix/releases/tag/v0.4.0), 7 years ago) - A simple Elasticsearch REST client written in Elixir.
+- [Frameio/exlasticsearch](https://github.com/Frameio/exlasticsearch) ([v1.0.0](https://github.com/Frameio/exlasticsearch/releases/tag/v1.0.0), 6 years ago) - Elixir Elasticsearch DSL with ecto mapping built in
 
 #### 🔨 Latest Pull Requests I published
 
