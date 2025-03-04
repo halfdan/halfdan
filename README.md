@@ -30,11 +30,11 @@ Hi there, I'm Fabian, an open source contributor and software engineer. I have c
 
 #### 🔨 Latest Pull Requests I published
 
+- [Fix incorrect doc string in Pigeon.APNS.Notification](https://github.com/codedge-llc/pigeon/pull/294) on [codedge-llc/pigeon](https://github.com/codedge-llc/pigeon) (today)
 - [Format codebase with styler and run credo in CI](https://github.com/werbitzky/elastix/pull/79) on [werbitzky/elastix](https://github.com/werbitzky/elastix) (1 week ago)
 - [Update dependencies, use Github Actions, change to MIT license](https://github.com/werbitzky/elastix/pull/77) on [werbitzky/elastix](https://github.com/werbitzky/elastix) (1 week ago)
 - [Add Github Actions workflow](https://github.com/Frameio/cereal_ex/pull/22) on [Frameio/cereal_ex](https://github.com/Frameio/cereal_ex) (1 week ago)
 - [Handle pagination on empty list](https://github.com/stephenmoloney/scrivener_list/pull/14) on [stephenmoloney/scrivener_list](https://github.com/stephenmoloney/scrivener_list) (1 week ago)
-- [Drop support for scrivener_ecto 1.x and restrict to ~&gt; 3.x/~&gt; 2.7](https://github.com/stephenmoloney/scrivener_list/pull/13) on [stephenmoloney/scrivener_list](https://github.com/stephenmoloney/scrivener_list) (1 week ago)
 
 #### 📜 My recent blog posts
 
