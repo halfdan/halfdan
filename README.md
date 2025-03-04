@@ -6,8 +6,8 @@ Hi there, I'm Fabian, an open source contributor and software engineer. I have c
 
 #### 👷 Check out what I'm currently working on
 
-- [Frameio/exlasticsearch](https://github.com/Frameio/exlasticsearch) - Elixir Elasticsearch DSL with ecto mapping built in (today)
-- [werbitzky/elastix](https://github.com/werbitzky/elastix) - A simple Elasticsearch REST client written in Elixir. (6 days ago)
+- [Frameio/exlasticsearch](https://github.com/Frameio/exlasticsearch) - Elixir Elasticsearch DSL with ecto mapping built in (1 day ago)
+- [werbitzky/elastix](https://github.com/werbitzky/elastix) - A simple Elasticsearch REST client written in Elixir. (1 week ago)
 - [stephenmoloney/scrivener_list](https://github.com/stephenmoloney/scrivener_list) - A Scrivener compatible extension that allows pagination of a list of elements. (1 week ago)
 - [adobe/elixir-styler](https://github.com/adobe/elixir-styler) - An @elixir-lang code-style enforcer that will just FIFY instead of complaining (1 week ago)
 - [halfdan/dotfiles](https://github.com/halfdan/dotfiles) - My personal dotfiles used on my Mac and Linux machines (1 week ago)
@@ -30,8 +30,8 @@ Hi there, I'm Fabian, an open source contributor and software engineer. I have c
 
 #### 🔨 Latest Pull Requests I published
 
-- [Format codebase with styler and run credo in CI](https://github.com/werbitzky/elastix/pull/79) on [werbitzky/elastix](https://github.com/werbitzky/elastix) (6 days ago)
-- [Update dependencies, use Github Actions, change to MIT license](https://github.com/werbitzky/elastix/pull/77) on [werbitzky/elastix](https://github.com/werbitzky/elastix) (6 days ago)
+- [Format codebase with styler and run credo in CI](https://github.com/werbitzky/elastix/pull/79) on [werbitzky/elastix](https://github.com/werbitzky/elastix) (1 week ago)
+- [Update dependencies, use Github Actions, change to MIT license](https://github.com/werbitzky/elastix/pull/77) on [werbitzky/elastix](https://github.com/werbitzky/elastix) (1 week ago)
 - [Add Github Actions workflow](https://github.com/Frameio/cereal_ex/pull/22) on [Frameio/cereal_ex](https://github.com/Frameio/cereal_ex) (1 week ago)
 - [Handle pagination on empty list](https://github.com/stephenmoloney/scrivener_list/pull/14) on [stephenmoloney/scrivener_list](https://github.com/stephenmoloney/scrivener_list) (1 week ago)
 - [Drop support for scrivener_ecto 1.x and restrict to ~&gt; 3.x/~&gt; 2.7](https://github.com/stephenmoloney/scrivener_list/pull/13) on [stephenmoloney/scrivener_list](https://github.com/stephenmoloney/scrivener_list) (1 week ago)
