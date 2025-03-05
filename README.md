@@ -30,11 +30,11 @@ Hi there, I'm Fabian, an open source contributor and software engineer. I have c
 
 #### 🔨 Latest Pull Requests I published
 
+- [[SCL-85] Undo Task.async implementation](https://github.com/Frameio/cereal_ex/pull/23) on [Frameio/cereal_ex](https://github.com/Frameio/cereal_ex) (today)
 - [[SCL-81] Add CI](https://github.com/Frameio/ex_limiter/pull/14) on [Frameio/ex_limiter](https://github.com/Frameio/ex_limiter) (today)
 - [[SCL-81] Update ex_limiter to latest Elixir and format code](https://github.com/Frameio/ex_limiter/pull/13) on [Frameio/ex_limiter](https://github.com/Frameio/ex_limiter) (1 day ago)
 - [Fix incorrect doc string in Pigeon.APNS.Notification](https://github.com/codedge-llc/pigeon/pull/294) on [codedge-llc/pigeon](https://github.com/codedge-llc/pigeon) (1 day ago)
 - [Format codebase with styler and run credo in CI](https://github.com/werbitzky/elastix/pull/79) on [werbitzky/elastix](https://github.com/werbitzky/elastix) (1 week ago)
-- [Update dependencies, use Github Actions, change to MIT license](https://github.com/werbitzky/elastix/pull/77) on [werbitzky/elastix](https://github.com/werbitzky/elastix) (1 week ago)
 
 #### 📜 My recent blog posts
 
