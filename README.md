@@ -6,11 +6,11 @@ Hi there, I'm Fabian, an open source contributor and software engineer. I have c
 
 #### 👷 Check out what I'm currently working on
 
+- [Frameio/cereal_ex](https://github.com/Frameio/cereal_ex) - A pluggable JSON serialization library for Elixir (today)
+- [Frameio/ex_limiter](https://github.com/Frameio/ex_limiter) - Rate Limiter written in elixir with configurable backends (today)
 - [Frameio/exlasticsearch](https://github.com/Frameio/exlasticsearch) - Elixir Elasticsearch DSL with ecto mapping built in (2 days ago)
 - [werbitzky/elastix](https://github.com/werbitzky/elastix) - A simple Elasticsearch REST client written in Elixir. (1 week ago)
 - [stephenmoloney/scrivener_list](https://github.com/stephenmoloney/scrivener_list) - A Scrivener compatible extension that allows pagination of a list of elements. (1 week ago)
-- [adobe/elixir-styler](https://github.com/adobe/elixir-styler) - An @elixir-lang code-style enforcer that will just FIFY instead of complaining (1 week ago)
-- [halfdan/dotfiles](https://github.com/halfdan/dotfiles) - My personal dotfiles used on my Mac and Linux machines (2 weeks ago)
 
 #### 🌱 My latest projects
 
@@ -30,11 +30,11 @@ Hi there, I'm Fabian, an open source contributor and software engineer. I have c
 
 #### 🔨 Latest Pull Requests I published
 
+- [[SCL-81] Add CI](https://github.com/Frameio/ex_limiter/pull/14) on [Frameio/ex_limiter](https://github.com/Frameio/ex_limiter) (today)
 - [[SCL-81] Update ex_limiter to latest Elixir and format code](https://github.com/Frameio/ex_limiter/pull/13) on [Frameio/ex_limiter](https://github.com/Frameio/ex_limiter) (1 day ago)
 - [Fix incorrect doc string in Pigeon.APNS.Notification](https://github.com/codedge-llc/pigeon/pull/294) on [codedge-llc/pigeon](https://github.com/codedge-llc/pigeon) (1 day ago)
 - [Format codebase with styler and run credo in CI](https://github.com/werbitzky/elastix/pull/79) on [werbitzky/elastix](https://github.com/werbitzky/elastix) (1 week ago)
 - [Update dependencies, use Github Actions, change to MIT license](https://github.com/werbitzky/elastix/pull/77) on [werbitzky/elastix](https://github.com/werbitzky/elastix) (1 week ago)
-- [Add Github Actions workflow](https://github.com/Frameio/cereal_ex/pull/22) on [Frameio/cereal_ex](https://github.com/Frameio/cereal_ex) (1 week ago)
 
 #### 📜 My recent blog posts
 
