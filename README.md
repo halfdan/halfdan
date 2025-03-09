@@ -6,9 +6,9 @@ Hi there, I'm Fabian, an open source contributor and software engineer. I have c
 
 #### 👷 Check out what I'm currently working on
 
-- [Frameio/cereal_ex](https://github.com/Frameio/cereal_ex) - A pluggable JSON serialization library for Elixir (3 days ago)
-- [Frameio/ex_limiter](https://github.com/Frameio/ex_limiter) - Rate Limiter written in elixir with configurable backends (3 days ago)
-- [Frameio/exlasticsearch](https://github.com/Frameio/exlasticsearch) - Elixir Elasticsearch DSL with ecto mapping built in (5 days ago)
+- [Frameio/cereal_ex](https://github.com/Frameio/cereal_ex) - A pluggable JSON serialization library for Elixir (4 days ago)
+- [Frameio/ex_limiter](https://github.com/Frameio/ex_limiter) - Rate Limiter written in elixir with configurable backends (4 days ago)
+- [Frameio/exlasticsearch](https://github.com/Frameio/exlasticsearch) - Elixir Elasticsearch DSL with ecto mapping built in (6 days ago)
 - [werbitzky/elastix](https://github.com/werbitzky/elastix) - A simple Elasticsearch REST client written in Elixir. (1 week ago)
 - [stephenmoloney/scrivener_list](https://github.com/stephenmoloney/scrivener_list) - A Scrivener compatible extension that allows pagination of a list of elements. (1 week ago)
 
@@ -25,16 +25,16 @@ Hi there, I'm Fabian, an open source contributor and software engineer. I have c
 - [stephenmoloney/scrivener_list](https://github.com/stephenmoloney/scrivener_list) ([2.1.1](https://github.com/stephenmoloney/scrivener_list/releases/tag/2.1.1), 1 week ago) - A Scrivener compatible extension that allows pagination of a list of elements.
 - [adobe/elixir-styler](https://github.com/adobe/elixir-styler) ([v1.4.0](https://github.com/adobe/elixir-styler/releases/tag/v1.4.0), 2 weeks ago) - An @elixir-lang code-style enforcer that will just FIFY instead of complaining
 - [exercism/cli](https://github.com/exercism/cli) ([v3.5.4](https://github.com/exercism/cli/releases/tag/v3.5.4), 3 months ago) - A Go based command line tool for exercism.org.
-- [Frameio/cereal_ex](https://github.com/Frameio/cereal_ex) ([v1.4.1](https://github.com/Frameio/cereal_ex/releases/tag/v1.4.1), 11 months ago) - A pluggable JSON serialization library for Elixir
+- [Frameio/cereal_ex](https://github.com/Frameio/cereal_ex) ([v1.4.1](https://github.com/Frameio/cereal_ex/releases/tag/v1.4.1), 1 year ago) - A pluggable JSON serialization library for Elixir
 - [Frameio/exlasticsearch](https://github.com/Frameio/exlasticsearch) ([v1.0.0](https://github.com/Frameio/exlasticsearch/releases/tag/v1.0.0), 6 years ago) - Elixir Elasticsearch DSL with ecto mapping built in
 
 #### 🔨 Latest Pull Requests I published
 
-- [Format code and ensure formatting in CI](https://github.com/parroty/exvcr/pull/234) on [parroty/exvcr](https://github.com/parroty/exvcr) (2 days ago)
-- [Update locked dependencies](https://github.com/parroty/exvcr/pull/232) on [parroty/exvcr](https://github.com/parroty/exvcr) (2 days ago)
-- [Move preferred_cli_env into def cli](https://github.com/parroty/exvcr/pull/230) on [parroty/exvcr](https://github.com/parroty/exvcr) (2 days ago)
-- [[SCL-85] Undo Task.async implementation](https://github.com/Frameio/cereal_ex/pull/23) on [Frameio/cereal_ex](https://github.com/Frameio/cereal_ex) (3 days ago)
-- [[SCL-81] Add CI](https://github.com/Frameio/ex_limiter/pull/14) on [Frameio/ex_limiter](https://github.com/Frameio/ex_limiter) (3 days ago)
+- [Format code and ensure formatting in CI](https://github.com/parroty/exvcr/pull/234) on [parroty/exvcr](https://github.com/parroty/exvcr) (3 days ago)
+- [Update locked dependencies](https://github.com/parroty/exvcr/pull/232) on [parroty/exvcr](https://github.com/parroty/exvcr) (3 days ago)
+- [Move preferred_cli_env into def cli](https://github.com/parroty/exvcr/pull/230) on [parroty/exvcr](https://github.com/parroty/exvcr) (3 days ago)
+- [[SCL-85] Undo Task.async implementation](https://github.com/Frameio/cereal_ex/pull/23) on [Frameio/cereal_ex](https://github.com/Frameio/cereal_ex) (4 days ago)
+- [[SCL-81] Add CI](https://github.com/Frameio/ex_limiter/pull/14) on [Frameio/ex_limiter](https://github.com/Frameio/ex_limiter) (4 days ago)
 
 #### 📜 My recent blog posts
 
