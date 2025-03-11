@@ -6,10 +6,10 @@ Hi there, I'm Fabian, an open source contributor and software engineer. I have c
 
 #### 👷 Check out what I'm currently working on
 
-- [Frameio/cereal_ex](https://github.com/Frameio/cereal_ex) - A pluggable JSON serialization library for Elixir (5 days ago)
-- [Frameio/ex_limiter](https://github.com/Frameio/ex_limiter) - Rate Limiter written in elixir with configurable backends (5 days ago)
+- [Frameio/cereal_ex](https://github.com/Frameio/cereal_ex) - A pluggable JSON serialization library for Elixir (6 days ago)
+- [Frameio/ex_limiter](https://github.com/Frameio/ex_limiter) - Rate Limiter written in elixir with configurable backends (6 days ago)
 - [Frameio/exlasticsearch](https://github.com/Frameio/exlasticsearch) - Elixir Elasticsearch DSL with ecto mapping built in (1 week ago)
-- [werbitzky/elastix](https://github.com/werbitzky/elastix) - A simple Elasticsearch REST client written in Elixir. (1 week ago)
+- [werbitzky/elastix](https://github.com/werbitzky/elastix) - A simple Elasticsearch REST client written in Elixir. (2 weeks ago)
 - [stephenmoloney/scrivener_list](https://github.com/stephenmoloney/scrivener_list) - A Scrivener compatible extension that allows pagination of a list of elements. (2 weeks ago)
 
 #### 🌱 My latest projects
@@ -30,11 +30,11 @@ Hi there, I'm Fabian, an open source contributor and software engineer. I have c
 
 #### 🔨 Latest Pull Requests I published
 
-- [Format code and ensure formatting in CI](https://github.com/parroty/exvcr/pull/234) on [parroty/exvcr](https://github.com/parroty/exvcr) (4 days ago)
-- [Update locked dependencies](https://github.com/parroty/exvcr/pull/232) on [parroty/exvcr](https://github.com/parroty/exvcr) (4 days ago)
-- [Move preferred_cli_env into def cli](https://github.com/parroty/exvcr/pull/230) on [parroty/exvcr](https://github.com/parroty/exvcr) (4 days ago)
-- [[SCL-85] Undo Task.async implementation](https://github.com/Frameio/cereal_ex/pull/23) on [Frameio/cereal_ex](https://github.com/Frameio/cereal_ex) (5 days ago)
-- [[SCL-81] Add CI](https://github.com/Frameio/ex_limiter/pull/14) on [Frameio/ex_limiter](https://github.com/Frameio/ex_limiter) (5 days ago)
+- [Format code and ensure formatting in CI](https://github.com/parroty/exvcr/pull/234) on [parroty/exvcr](https://github.com/parroty/exvcr) (5 days ago)
+- [Update locked dependencies](https://github.com/parroty/exvcr/pull/232) on [parroty/exvcr](https://github.com/parroty/exvcr) (5 days ago)
+- [Move preferred_cli_env into def cli](https://github.com/parroty/exvcr/pull/230) on [parroty/exvcr](https://github.com/parroty/exvcr) (5 days ago)
+- [[SCL-85] Undo Task.async implementation](https://github.com/Frameio/cereal_ex/pull/23) on [Frameio/cereal_ex](https://github.com/Frameio/cereal_ex) (6 days ago)
+- [[SCL-81] Add CI](https://github.com/Frameio/ex_limiter/pull/14) on [Frameio/ex_limiter](https://github.com/Frameio/ex_limiter) (6 days ago)
 
 #### 📜 My recent blog posts
 
