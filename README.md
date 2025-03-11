@@ -6,11 +6,11 @@ Hi there, I'm Fabian, an open source contributor and software engineer. I have c
 
 #### 👷 Check out what I'm currently working on
 
+- [oban-bg/oban](https://github.com/oban-bg/oban) - 💎 Robust job processing in Elixir, backed by modern PostgreSQL, SQLite3, and MySQL (today)
 - [Frameio/cereal_ex](https://github.com/Frameio/cereal_ex) - A pluggable JSON serialization library for Elixir (6 days ago)
 - [Frameio/ex_limiter](https://github.com/Frameio/ex_limiter) - Rate Limiter written in elixir with configurable backends (6 days ago)
 - [Frameio/exlasticsearch](https://github.com/Frameio/exlasticsearch) - Elixir Elasticsearch DSL with ecto mapping built in (1 week ago)
 - [werbitzky/elastix](https://github.com/werbitzky/elastix) - A simple Elasticsearch REST client written in Elixir. (2 weeks ago)
-- [stephenmoloney/scrivener_list](https://github.com/stephenmoloney/scrivener_list) - A Scrivener compatible extension that allows pagination of a list of elements. (2 weeks ago)
 
 #### 🌱 My latest projects
 
@@ -24,9 +24,9 @@ Hi there, I'm Fabian, an open source contributor and software engineer. I have c
 
 - [stephenmoloney/scrivener_list](https://github.com/stephenmoloney/scrivener_list) ([2.1.1](https://github.com/stephenmoloney/scrivener_list/releases/tag/2.1.1), 2 weeks ago) - A Scrivener compatible extension that allows pagination of a list of elements.
 - [adobe/elixir-styler](https://github.com/adobe/elixir-styler) ([v1.4.0](https://github.com/adobe/elixir-styler/releases/tag/v1.4.0), 2 weeks ago) - An @elixir-lang code-style enforcer that will just FIFY instead of complaining
+- [oban-bg/oban](https://github.com/oban-bg/oban) ([v2.19.2](https://github.com/oban-bg/oban/releases/tag/v2.19.2), 3 weeks ago) - 💎 Robust job processing in Elixir, backed by modern PostgreSQL, SQLite3, and MySQL
 - [exercism/cli](https://github.com/exercism/cli) ([v3.5.4](https://github.com/exercism/cli/releases/tag/v3.5.4), 3 months ago) - A Go based command line tool for exercism.org.
 - [Frameio/cereal_ex](https://github.com/Frameio/cereal_ex) ([v1.4.1](https://github.com/Frameio/cereal_ex/releases/tag/v1.4.1), 1 year ago) - A pluggable JSON serialization library for Elixir
-- [Frameio/exlasticsearch](https://github.com/Frameio/exlasticsearch) ([v1.0.0](https://github.com/Frameio/exlasticsearch/releases/tag/v1.0.0), 6 years ago) - Elixir Elasticsearch DSL with ecto mapping built in
 
 #### 🔨 Latest Pull Requests I published
 
