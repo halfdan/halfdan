@@ -30,11 +30,11 @@ Hi there, I'm Fabian, an open source contributor and software engineer. I have c
 
 #### 🔨 Latest Pull Requests I published
 
+- [Move preferred_cli_env into def cli](https://github.com/oban-bg/oban/pull/1269) on [oban-bg/oban](https://github.com/oban-bg/oban) (today)
 - [Fix struct update syntax for Elixir 1.19 compatibility](https://github.com/oban-bg/oban/pull/1268) on [oban-bg/oban](https://github.com/oban-bg/oban) (1 day ago)
 - [Format code and ensure formatting in CI](https://github.com/parroty/exvcr/pull/234) on [parroty/exvcr](https://github.com/parroty/exvcr) (6 days ago)
 - [Update locked dependencies](https://github.com/parroty/exvcr/pull/232) on [parroty/exvcr](https://github.com/parroty/exvcr) (6 days ago)
 - [Move preferred_cli_env into def cli](https://github.com/parroty/exvcr/pull/230) on [parroty/exvcr](https://github.com/parroty/exvcr) (6 days ago)
-- [[SCL-85] Undo Task.async implementation](https://github.com/Frameio/cereal_ex/pull/23) on [Frameio/cereal_ex](https://github.com/Frameio/cereal_ex) (1 week ago)
 
 #### 📜 My recent blog posts
 
