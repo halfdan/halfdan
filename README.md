@@ -6,10 +6,10 @@ Hi there, I'm Fabian, an open source contributor and software engineer. I have c
 
 #### 👷 Check out what I'm currently working on
 
-- [parroty/exvcr](https://github.com/parroty/exvcr) - HTTP request/response recording library for elixir, inspired by VCR. (2 days ago)
-- [oban-bg/oban](https://github.com/oban-bg/oban) - 💎 Robust job processing in Elixir, backed by modern PostgreSQL, SQLite3, and MySQL (6 days ago)
-- [Frameio/ex_limiter](https://github.com/Frameio/ex_limiter) - Rate Limiter written in elixir with configurable backends (1 week ago)
-- [Frameio/cereal_ex](https://github.com/Frameio/cereal_ex) - A pluggable JSON serialization library for Elixir (1 week ago)
+- [parroty/exvcr](https://github.com/parroty/exvcr) - HTTP request/response recording library for elixir, inspired by VCR. (3 days ago)
+- [oban-bg/oban](https://github.com/oban-bg/oban) - 💎 Robust job processing in Elixir, backed by modern PostgreSQL, SQLite3, and MySQL (1 week ago)
+- [Frameio/ex_limiter](https://github.com/Frameio/ex_limiter) - Rate Limiter written in elixir with configurable backends (2 weeks ago)
+- [Frameio/cereal_ex](https://github.com/Frameio/cereal_ex) - A pluggable JSON serialization library for Elixir (2 weeks ago)
 - [Frameio/exlasticsearch](https://github.com/Frameio/exlasticsearch) - Elixir Elasticsearch DSL with ecto mapping built in (2 weeks ago)
 
 #### 🌱 My latest projects
@@ -30,8 +30,8 @@ Hi there, I'm Fabian, an open source contributor and software engineer. I have c
 
 #### 🔨 Latest Pull Requests I published
 
-- [chore: Fix flaky test cases in cron_test.exs](https://github.com/oban-bg/oban/pull/1270) on [oban-bg/oban](https://github.com/oban-bg/oban) (6 days ago)
-- [chore: Move preferred_cli_env into def cli](https://github.com/oban-bg/oban/pull/1269) on [oban-bg/oban](https://github.com/oban-bg/oban) (6 days ago)
+- [chore: Fix flaky test cases in cron_test.exs](https://github.com/oban-bg/oban/pull/1270) on [oban-bg/oban](https://github.com/oban-bg/oban) (1 week ago)
+- [chore: Move preferred_cli_env into def cli](https://github.com/oban-bg/oban/pull/1269) on [oban-bg/oban](https://github.com/oban-bg/oban) (1 week ago)
 - [Fix struct update syntax for Elixir 1.19 compatibility](https://github.com/oban-bg/oban/pull/1268) on [oban-bg/oban](https://github.com/oban-bg/oban) (1 week ago)
 - [Format code and ensure formatting in CI](https://github.com/parroty/exvcr/pull/234) on [parroty/exvcr](https://github.com/parroty/exvcr) (1 week ago)
 - [Update locked dependencies](https://github.com/parroty/exvcr/pull/232) on [parroty/exvcr](https://github.com/parroty/exvcr) (1 week ago)
