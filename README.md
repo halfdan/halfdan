@@ -6,7 +6,7 @@ Hi there, I'm Fabian, an open source contributor and software engineer. I have c
 
 #### 👷 Check out what I'm currently working on
 
-- [parroty/exvcr](https://github.com/parroty/exvcr) - HTTP request/response recording library for elixir, inspired by VCR. (3 days ago)
+- [parroty/exvcr](https://github.com/parroty/exvcr) - HTTP request/response recording library for elixir, inspired by VCR. (4 days ago)
 - [oban-bg/oban](https://github.com/oban-bg/oban) - 💎 Robust job processing in Elixir, backed by modern PostgreSQL, SQLite3, and MySQL (1 week ago)
 - [Frameio/ex_limiter](https://github.com/Frameio/ex_limiter) - Rate Limiter written in elixir with configurable backends (2 weeks ago)
 - [Frameio/cereal_ex](https://github.com/Frameio/cereal_ex) - A pluggable JSON serialization library for Elixir (2 weeks ago)
@@ -25,7 +25,7 @@ Hi there, I'm Fabian, an open source contributor and software engineer. I have c
 - [stephenmoloney/scrivener_list](https://github.com/stephenmoloney/scrivener_list) ([2.1.1](https://github.com/stephenmoloney/scrivener_list/releases/tag/2.1.1), 3 weeks ago) - A Scrivener compatible extension that allows pagination of a list of elements.
 - [parroty/exvcr](https://github.com/parroty/exvcr) ([v0.16.0](https://github.com/parroty/exvcr/releases/tag/v0.16.0), 3 weeks ago) - HTTP request/response recording library for elixir, inspired by VCR.
 - [adobe/elixir-styler](https://github.com/adobe/elixir-styler) ([v1.4.0](https://github.com/adobe/elixir-styler/releases/tag/v1.4.0), 3 weeks ago) - An @elixir-lang code-style enforcer that will just FIFY instead of complaining
-- [oban-bg/oban](https://github.com/oban-bg/oban) ([v2.19.2](https://github.com/oban-bg/oban/releases/tag/v2.19.2), 4 weeks ago) - 💎 Robust job processing in Elixir, backed by modern PostgreSQL, SQLite3, and MySQL
+- [oban-bg/oban](https://github.com/oban-bg/oban) ([v2.19.2](https://github.com/oban-bg/oban/releases/tag/v2.19.2), 1 month ago) - 💎 Robust job processing in Elixir, backed by modern PostgreSQL, SQLite3, and MySQL
 - [exercism/cli](https://github.com/exercism/cli) ([v3.5.4](https://github.com/exercism/cli/releases/tag/v3.5.4), 4 months ago) - A Go based command line tool for exercism.org.
 
 #### 🔨 Latest Pull Requests I published
@@ -33,8 +33,8 @@ Hi there, I'm Fabian, an open source contributor and software engineer. I have c
 - [chore: Fix flaky test cases in cron_test.exs](https://github.com/oban-bg/oban/pull/1270) on [oban-bg/oban](https://github.com/oban-bg/oban) (1 week ago)
 - [chore: Move preferred_cli_env into def cli](https://github.com/oban-bg/oban/pull/1269) on [oban-bg/oban](https://github.com/oban-bg/oban) (1 week ago)
 - [Fix struct update syntax for Elixir 1.19 compatibility](https://github.com/oban-bg/oban/pull/1268) on [oban-bg/oban](https://github.com/oban-bg/oban) (1 week ago)
-- [Format code and ensure formatting in CI](https://github.com/parroty/exvcr/pull/234) on [parroty/exvcr](https://github.com/parroty/exvcr) (1 week ago)
-- [Update locked dependencies](https://github.com/parroty/exvcr/pull/232) on [parroty/exvcr](https://github.com/parroty/exvcr) (1 week ago)
+- [Format code and ensure formatting in CI](https://github.com/parroty/exvcr/pull/234) on [parroty/exvcr](https://github.com/parroty/exvcr) (2 weeks ago)
+- [Update locked dependencies](https://github.com/parroty/exvcr/pull/232) on [parroty/exvcr](https://github.com/parroty/exvcr) (2 weeks ago)
 
 #### 📜 My recent blog posts
 
