@@ -22,7 +22,7 @@ Hi there, I'm Fabian, an open source contributor and software engineer. I have c
 
 #### 🔭 Latest releases I've contributed to
 
-- [adobe/elixir-styler](https://github.com/adobe/elixir-styler) ([v1.4.1](https://github.com/adobe/elixir-styler/releases/tag/v1.4.1), 2 days ago) - An @elixir-lang code-style enforcer that will just FIFY instead of complaining
+- [adobe/elixir-styler](https://github.com/adobe/elixir-styler) ([v1.4.1](https://github.com/adobe/elixir-styler/releases/tag/v1.4.1), 3 days ago) - An @elixir-lang code-style enforcer that will just FIFY instead of complaining
 - [parroty/exvcr](https://github.com/parroty/exvcr) ([v0.17.0](https://github.com/parroty/exvcr/releases/tag/v0.17.0), 1 week ago) - HTTP request/response recording library for elixir, inspired by VCR.
 - [stephenmoloney/scrivener_list](https://github.com/stephenmoloney/scrivener_list) ([2.1.1](https://github.com/stephenmoloney/scrivener_list/releases/tag/2.1.1), 1 month ago) - A Scrivener compatible extension that allows pagination of a list of elements.
 - [oban-bg/oban](https://github.com/oban-bg/oban) ([v2.19.2](https://github.com/oban-bg/oban/releases/tag/v2.19.2), 1 month ago) - 💎 Robust job processing in Elixir, backed by modern PostgreSQL, SQLite3, and MySQL
