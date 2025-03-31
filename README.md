@@ -6,11 +6,11 @@ Hi there, I'm Fabian, an open source contributor and software engineer. I have c
 
 #### 👷 Check out what I'm currently working on
 
+- [mroth/exmoji](https://github.com/mroth/exmoji) - :sunglasses: Emoji encoding swiss army knife for Elixir/Erlang (today)
 - [parroty/exvcr](https://github.com/parroty/exvcr) - HTTP request/response recording library for elixir, inspired by VCR. (2 weeks ago)
 - [oban-bg/oban](https://github.com/oban-bg/oban) - 💎 Robust job processing in Elixir, backed by modern PostgreSQL, SQLite3, and MySQL (2 weeks ago)
 - [Frameio/ex_limiter](https://github.com/Frameio/ex_limiter) - Rate Limiter written in elixir with configurable backends (3 weeks ago)
 - [Frameio/cereal_ex](https://github.com/Frameio/cereal_ex) - A pluggable JSON serialization library for Elixir (3 weeks ago)
-- [Frameio/exlasticsearch](https://github.com/Frameio/exlasticsearch) - Elixir Elasticsearch DSL with ecto mapping built in (4 weeks ago)
 
 #### 🌱 My latest projects
 
@@ -30,11 +30,11 @@ Hi there, I'm Fabian, an open source contributor and software engineer. I have c
 
 #### 🔨 Latest Pull Requests I published
 
+- [Remove deprecation warning check for 1.18](https://github.com/elixir-lang/elixir/pull/14382) on [elixir-lang/elixir](https://github.com/elixir-lang/elixir) (today)
+- [Update CI and fix warning](https://github.com/mroth/exmoji/pull/25) on [mroth/exmoji](https://github.com/mroth/exmoji) (today)
 - [Update CI and fix warning](https://github.com/mroth/exmoji/pull/24) on [mroth/exmoji](https://github.com/mroth/exmoji) (today)
 - [chore: Fix flaky test cases in cron_test.exs](https://github.com/oban-bg/oban/pull/1270) on [oban-bg/oban](https://github.com/oban-bg/oban) (2 weeks ago)
 - [chore: Move preferred_cli_env into def cli](https://github.com/oban-bg/oban/pull/1269) on [oban-bg/oban](https://github.com/oban-bg/oban) (2 weeks ago)
-- [Fix struct update syntax for Elixir 1.19 compatibility](https://github.com/oban-bg/oban/pull/1268) on [oban-bg/oban](https://github.com/oban-bg/oban) (2 weeks ago)
-- [Format code and ensure formatting in CI](https://github.com/parroty/exvcr/pull/234) on [parroty/exvcr](https://github.com/parroty/exvcr) (3 weeks ago)
 
 #### 📜 My recent blog posts
 
