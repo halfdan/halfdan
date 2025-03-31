@@ -30,11 +30,11 @@ Hi there, I'm Fabian, an open source contributor and software engineer. I have c
 
 #### 🔨 Latest Pull Requests I published
 
+- [Update CI and fix warning](https://github.com/mroth/exmoji/pull/24) on [mroth/exmoji](https://github.com/mroth/exmoji) (today)
 - [chore: Fix flaky test cases in cron_test.exs](https://github.com/oban-bg/oban/pull/1270) on [oban-bg/oban](https://github.com/oban-bg/oban) (2 weeks ago)
 - [chore: Move preferred_cli_env into def cli](https://github.com/oban-bg/oban/pull/1269) on [oban-bg/oban](https://github.com/oban-bg/oban) (2 weeks ago)
 - [Fix struct update syntax for Elixir 1.19 compatibility](https://github.com/oban-bg/oban/pull/1268) on [oban-bg/oban](https://github.com/oban-bg/oban) (2 weeks ago)
 - [Format code and ensure formatting in CI](https://github.com/parroty/exvcr/pull/234) on [parroty/exvcr](https://github.com/parroty/exvcr) (3 weeks ago)
-- [Update locked dependencies](https://github.com/parroty/exvcr/pull/232) on [parroty/exvcr](https://github.com/parroty/exvcr) (3 weeks ago)
 
 #### 📜 My recent blog posts
 
