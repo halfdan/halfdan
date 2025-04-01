@@ -6,7 +6,7 @@ Hi there, I'm Fabian, an open source contributor and software engineer. I have c
 
 #### 👷 Check out what I'm currently working on
 
-- [mroth/exmoji](https://github.com/mroth/exmoji) - :sunglasses: Emoji encoding swiss army knife for Elixir/Erlang (today)
+- [mroth/exmoji](https://github.com/mroth/exmoji) - :sunglasses: Emoji encoding swiss army knife for Elixir/Erlang (1 day ago)
 - [parroty/exvcr](https://github.com/parroty/exvcr) - HTTP request/response recording library for elixir, inspired by VCR. (2 weeks ago)
 - [oban-bg/oban](https://github.com/oban-bg/oban) - 💎 Robust job processing in Elixir, backed by modern PostgreSQL, SQLite3, and MySQL (2 weeks ago)
 - [Frameio/ex_limiter](https://github.com/Frameio/ex_limiter) - Rate Limiter written in elixir with configurable backends (3 weeks ago)
@@ -22,7 +22,7 @@ Hi there, I'm Fabian, an open source contributor and software engineer. I have c
 
 #### 🔭 Latest releases I've contributed to
 
-- [adobe/elixir-styler](https://github.com/adobe/elixir-styler) ([v1.4.1](https://github.com/adobe/elixir-styler/releases/tag/v1.4.1), 5 days ago) - An @elixir-lang code-style enforcer that will just FIFY instead of complaining
+- [adobe/elixir-styler](https://github.com/adobe/elixir-styler) ([v1.4.1](https://github.com/adobe/elixir-styler/releases/tag/v1.4.1), 6 days ago) - An @elixir-lang code-style enforcer that will just FIFY instead of complaining
 - [parroty/exvcr](https://github.com/parroty/exvcr) ([v0.17.0](https://github.com/parroty/exvcr/releases/tag/v0.17.0), 1 week ago) - HTTP request/response recording library for elixir, inspired by VCR.
 - [stephenmoloney/scrivener_list](https://github.com/stephenmoloney/scrivener_list) ([2.1.1](https://github.com/stephenmoloney/scrivener_list/releases/tag/2.1.1), 1 month ago) - A Scrivener compatible extension that allows pagination of a list of elements.
 - [oban-bg/oban](https://github.com/oban-bg/oban) ([v2.19.2](https://github.com/oban-bg/oban/releases/tag/v2.19.2), 1 month ago) - 💎 Robust job processing in Elixir, backed by modern PostgreSQL, SQLite3, and MySQL
@@ -30,9 +30,9 @@ Hi there, I'm Fabian, an open source contributor and software engineer. I have c
 
 #### 🔨 Latest Pull Requests I published
 
-- [Remove deprecation warning check for 1.18](https://github.com/elixir-lang/elixir/pull/14382) on [elixir-lang/elixir](https://github.com/elixir-lang/elixir) (today)
-- [Update CI and fix warning](https://github.com/mroth/exmoji/pull/25) on [mroth/exmoji](https://github.com/mroth/exmoji) (today)
-- [Update CI and fix warning](https://github.com/mroth/exmoji/pull/24) on [mroth/exmoji](https://github.com/mroth/exmoji) (today)
+- [Remove deprecation warning check for 1.18](https://github.com/elixir-lang/elixir/pull/14382) on [elixir-lang/elixir](https://github.com/elixir-lang/elixir) (1 day ago)
+- [Update CI and fix warning](https://github.com/mroth/exmoji/pull/25) on [mroth/exmoji](https://github.com/mroth/exmoji) (1 day ago)
+- [Update CI and fix warning](https://github.com/mroth/exmoji/pull/24) on [mroth/exmoji](https://github.com/mroth/exmoji) (1 day ago)
 - [chore: Fix flaky test cases in cron_test.exs](https://github.com/oban-bg/oban/pull/1270) on [oban-bg/oban](https://github.com/oban-bg/oban) (2 weeks ago)
 - [chore: Move preferred_cli_env into def cli](https://github.com/oban-bg/oban/pull/1269) on [oban-bg/oban](https://github.com/oban-bg/oban) (2 weeks ago)
 
