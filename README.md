@@ -30,11 +30,11 @@ Hi there, I'm Fabian, an open source contributor and software engineer. I have c
 
 #### 🔨 Latest Pull Requests I published
 
+- [Update emoji data and API](https://github.com/mroth/exmoji/pull/32) on [mroth/exmoji](https://github.com/mroth/exmoji) (today)
 - [Format code and lint in CI](https://github.com/mroth/exmoji/pull/31) on [mroth/exmoji](https://github.com/mroth/exmoji) (today)
 - [Update dependencies](https://github.com/mroth/exmoji/pull/30) on [mroth/exmoji](https://github.com/mroth/exmoji) (today)
 - [Remove deprecation warning check for 1.18](https://github.com/elixir-lang/elixir/pull/14382) on [elixir-lang/elixir](https://github.com/elixir-lang/elixir) (1 day ago)
 - [Update CI and fix warning](https://github.com/mroth/exmoji/pull/25) on [mroth/exmoji](https://github.com/mroth/exmoji) (1 day ago)
-- [Update CI and fix warning](https://github.com/mroth/exmoji/pull/24) on [mroth/exmoji](https://github.com/mroth/exmoji) (1 day ago)
 
 #### 📜 My recent blog posts
 
