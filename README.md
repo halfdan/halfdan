@@ -6,7 +6,7 @@ Hi there, I'm Fabian, an open source contributor and software engineer. I have c
 
 #### 👷 Check out what I'm currently working on
 
-- [Frameio/exlasticsearch](https://github.com/Frameio/exlasticsearch) - Elixir Elasticsearch DSL with ecto mapping built in (6 days ago)
+- [Frameio/exlasticsearch](https://github.com/Frameio/exlasticsearch) - Elixir Elasticsearch DSL with ecto mapping built in (1 week ago)
 - [mroth/exmoji](https://github.com/mroth/exmoji) - :sunglasses: Emoji encoding swiss army knife for Elixir/Erlang (1 week ago)
 - [parroty/exvcr](https://github.com/parroty/exvcr) - HTTP request/response recording library for elixir, inspired by VCR. (3 weeks ago)
 - [oban-bg/oban](https://github.com/oban-bg/oban) - 💎 Robust job processing in Elixir, backed by modern PostgreSQL, SQLite3, and MySQL (4 weeks ago)
@@ -23,7 +23,7 @@ Hi there, I'm Fabian, an open source contributor and software engineer. I have c
 #### 🔭 Latest releases I've contributed to
 
 - [adobe/elixir-styler](https://github.com/adobe/elixir-styler) ([v1.4.1](https://github.com/adobe/elixir-styler/releases/tag/v1.4.1), 2 weeks ago) - An @elixir-lang code-style enforcer that will just FIFY instead of complaining
-- [parroty/exvcr](https://github.com/parroty/exvcr) ([v0.17.0](https://github.com/parroty/exvcr/releases/tag/v0.17.0), 2 weeks ago) - HTTP request/response recording library for elixir, inspired by VCR.
+- [parroty/exvcr](https://github.com/parroty/exvcr) ([v0.17.0](https://github.com/parroty/exvcr/releases/tag/v0.17.0), 3 weeks ago) - HTTP request/response recording library for elixir, inspired by VCR.
 - [stephenmoloney/scrivener_list](https://github.com/stephenmoloney/scrivener_list) ([2.1.1](https://github.com/stephenmoloney/scrivener_list/releases/tag/2.1.1), 1 month ago) - A Scrivener compatible extension that allows pagination of a list of elements.
 - [oban-bg/oban](https://github.com/oban-bg/oban) ([v2.19.2](https://github.com/oban-bg/oban/releases/tag/v2.19.2), 1 month ago) - 💎 Robust job processing in Elixir, backed by modern PostgreSQL, SQLite3, and MySQL
 - [exercism/cli](https://github.com/exercism/cli) ([v3.5.4](https://github.com/exercism/cli/releases/tag/v3.5.4), 4 months ago) - A Go based command line tool for exercism.org.
