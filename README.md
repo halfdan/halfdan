@@ -6,9 +6,9 @@ Hi there, I'm Fabian, an open source contributor and software engineer. I have c
 
 #### 👷 Check out what I'm currently working on
 
-- [mroth/exmoji](https://github.com/mroth/exmoji) - :sunglasses: Emoji encoding swiss army knife for Elixir/Erlang (2 days ago)
+- [mroth/exmoji](https://github.com/mroth/exmoji) - :sunglasses: Emoji encoding swiss army knife for Elixir/Erlang (3 days ago)
 - [Frameio/exlasticsearch](https://github.com/Frameio/exlasticsearch) - Elixir Elasticsearch DSL with ecto mapping built in (1 week ago)
-- [parroty/exvcr](https://github.com/parroty/exvcr) - HTTP request/response recording library for elixir, inspired by VCR. (3 weeks ago)
+- [parroty/exvcr](https://github.com/parroty/exvcr) - HTTP request/response recording library for elixir, inspired by VCR. (4 weeks ago)
 - [oban-bg/oban](https://github.com/oban-bg/oban) - 💎 Robust job processing in Elixir, backed by modern PostgreSQL, SQLite3, and MySQL (1 month ago)
 - [Frameio/ex_limiter](https://github.com/Frameio/ex_limiter) - Rate Limiter written in elixir with configurable backends (1 month ago)
 
@@ -22,7 +22,7 @@ Hi there, I'm Fabian, an open source contributor and software engineer. I have c
 
 #### 🔭 Latest releases I've contributed to
 
-- [mroth/exmoji](https://github.com/mroth/exmoji) ([v0.3.1](https://github.com/mroth/exmoji/releases/tag/v0.3.1), 2 days ago) - :sunglasses: Emoji encoding swiss army knife for Elixir/Erlang
+- [mroth/exmoji](https://github.com/mroth/exmoji) ([v0.3.1](https://github.com/mroth/exmoji/releases/tag/v0.3.1), 3 days ago) - :sunglasses: Emoji encoding swiss army knife for Elixir/Erlang
 - [adobe/elixir-styler](https://github.com/adobe/elixir-styler) ([v1.4.1](https://github.com/adobe/elixir-styler/releases/tag/v1.4.1), 2 weeks ago) - An @elixir-lang code-style enforcer that will just FIFY instead of complaining
 - [parroty/exvcr](https://github.com/parroty/exvcr) ([v0.17.0](https://github.com/parroty/exvcr/releases/tag/v0.17.0), 3 weeks ago) - HTTP request/response recording library for elixir, inspired by VCR.
 - [stephenmoloney/scrivener_list](https://github.com/stephenmoloney/scrivener_list) ([2.1.1](https://github.com/stephenmoloney/scrivener_list/releases/tag/2.1.1), 1 month ago) - A Scrivener compatible extension that allows pagination of a list of elements.
@@ -30,7 +30,7 @@ Hi there, I'm Fabian, an open source contributor and software engineer. I have c
 
 #### 🔨 Latest Pull Requests I published
 
-- [Fix Elixir 1.19 warning](https://github.com/mroth/exmoji/pull/34) on [mroth/exmoji](https://github.com/mroth/exmoji) (2 days ago)
+- [Fix Elixir 1.19 warning](https://github.com/mroth/exmoji/pull/34) on [mroth/exmoji](https://github.com/mroth/exmoji) (3 days ago)
 - [Update emoji data and API](https://github.com/mroth/exmoji/pull/32) on [mroth/exmoji](https://github.com/mroth/exmoji) (1 week ago)
 - [Format code and lint in CI](https://github.com/mroth/exmoji/pull/31) on [mroth/exmoji](https://github.com/mroth/exmoji) (1 week ago)
 - [Update dependencies](https://github.com/mroth/exmoji/pull/30) on [mroth/exmoji](https://github.com/mroth/exmoji) (1 week ago)
