@@ -34,11 +34,11 @@ Hi there, I'm Fabian, an open source contributor and software engineer. I have c
 - [Update emoji data and API](https://github.com/mroth/exmoji/pull/32) on [mroth/exmoji](https://github.com/mroth/exmoji) (4 weeks ago)
 - [Format code and lint in CI](https://github.com/mroth/exmoji/pull/31) on [mroth/exmoji](https://github.com/mroth/exmoji) (4 weeks ago)
 - [Update dependencies](https://github.com/mroth/exmoji/pull/30) on [mroth/exmoji](https://github.com/mroth/exmoji) (4 weeks ago)
-- [Remove deprecation warning check for 1.18](https://github.com/elixir-lang/elixir/pull/14382) on [elixir-lang/elixir](https://github.com/elixir-lang/elixir) (4 weeks ago)
+- [Remove deprecation warning check for 1.18](https://github.com/elixir-lang/elixir/pull/14382) on [elixir-lang/elixir](https://github.com/elixir-lang/elixir) (1 month ago)
 
 #### 📜 My recent blog posts
 
-- [Detecting Deprecated Regex Module Attributes in Elixir with Credo](https://geekmonkey.org/detecting-deprecated-regex-module-attributes-in-elixir-with-credo/) (3 weeks ago)
+- [Detecting Deprecated Regex Module Attributes in Elixir with Credo](https://geekmonkey.org/detecting-deprecated-regex-module-attributes-in-elixir-with-credo/) (4 weeks ago)
 - [How to update multiple records with different values in Ecto.Repo.update_all](https://geekmonkey.org/updating-multiple-records-with-different-values-in-ecto-repo-update_all/) (8 months ago)
 - [Detecting unused database columns using Ecto schemas](https://geekmonkey.org/detecting-unused-database-columns-using-ecto-schemas/) (2 years ago)
 - [Names should be descriptive, not cute](https://geekmonkey.org/names-should-be-descriptive-not-cute/) (2 years ago)
