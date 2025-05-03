@@ -22,9 +22,9 @@ Hi there, I'm Fabian, an open source contributor and software engineer. I have c
 
 #### 🔭 Latest releases I've contributed to
 
+- [parroty/exvcr](https://github.com/parroty/exvcr) ([v0.17.1](https://github.com/parroty/exvcr/releases/tag/v0.17.1), today) - HTTP request/response recording library for elixir, inspired by VCR.
 - [mroth/exmoji](https://github.com/mroth/exmoji) ([v0.3.1](https://github.com/mroth/exmoji/releases/tag/v0.3.1), 3 weeks ago) - :sunglasses: Emoji encoding swiss army knife for Elixir/Erlang
 - [adobe/elixir-styler](https://github.com/adobe/elixir-styler) ([v1.4.1](https://github.com/adobe/elixir-styler/releases/tag/v1.4.1), 1 month ago) - An @elixir-lang code-style enforcer that will just FIFY instead of complaining
-- [parroty/exvcr](https://github.com/parroty/exvcr) ([v0.17.0](https://github.com/parroty/exvcr/releases/tag/v0.17.0), 1 month ago) - HTTP request/response recording library for elixir, inspired by VCR.
 - [stephenmoloney/scrivener_list](https://github.com/stephenmoloney/scrivener_list) ([2.1.1](https://github.com/stephenmoloney/scrivener_list/releases/tag/2.1.1), 2 months ago) - A Scrivener compatible extension that allows pagination of a list of elements.
 - [oban-bg/oban](https://github.com/oban-bg/oban) ([v2.19.2](https://github.com/oban-bg/oban/releases/tag/v2.19.2), 2 months ago) - 💎 Robust job processing in Elixir, backed by modern PostgreSQL, SQLite3, and MySQL
 
