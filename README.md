@@ -23,7 +23,7 @@ Hi there, I'm Fabian, an open source contributor and software engineer. I have c
 #### 🔭 Latest releases I've contributed to
 
 - [adobe/elixir-styler](https://github.com/adobe/elixir-styler) ([v1.4.2](https://github.com/adobe/elixir-styler/releases/tag/v1.4.2), 3 weeks ago) - An @elixir-lang code-style enforcer that will just FIFY instead of complaining
-- [parroty/exvcr](https://github.com/parroty/exvcr) ([v0.17.1](https://github.com/parroty/exvcr/releases/tag/v0.17.1), 3 weeks ago) - HTTP request/response recording library for elixir, inspired by VCR.
+- [parroty/exvcr](https://github.com/parroty/exvcr) ([v0.17.1](https://github.com/parroty/exvcr/releases/tag/v0.17.1), 4 weeks ago) - HTTP request/response recording library for elixir, inspired by VCR.
 - [mroth/exmoji](https://github.com/mroth/exmoji) ([v0.3.1](https://github.com/mroth/exmoji/releases/tag/v0.3.1), 1 month ago) - :sunglasses: Emoji encoding swiss army knife for Elixir/Erlang
 - [stephenmoloney/scrivener_list](https://github.com/stephenmoloney/scrivener_list) ([2.1.1](https://github.com/stephenmoloney/scrivener_list/releases/tag/2.1.1), 3 months ago) - A Scrivener compatible extension that allows pagination of a list of elements.
 - [oban-bg/oban](https://github.com/oban-bg/oban) ([v2.19.2](https://github.com/oban-bg/oban/releases/tag/v2.19.2), 3 months ago) - 💎 Robust job processing in Elixir, backed by modern PostgreSQL, SQLite3, and MySQL
@@ -31,9 +31,9 @@ Hi there, I'm Fabian, an open source contributor and software engineer. I have c
 #### 🔨 Latest Pull Requests I published
 
 - [Fix Elixir 1.19 warning](https://github.com/mroth/exmoji/pull/34) on [mroth/exmoji](https://github.com/mroth/exmoji) (1 month ago)
-- [Update emoji data and API](https://github.com/mroth/exmoji/pull/32) on [mroth/exmoji](https://github.com/mroth/exmoji) (1 month ago)
-- [Format code and lint in CI](https://github.com/mroth/exmoji/pull/31) on [mroth/exmoji](https://github.com/mroth/exmoji) (1 month ago)
-- [Update dependencies](https://github.com/mroth/exmoji/pull/30) on [mroth/exmoji](https://github.com/mroth/exmoji) (1 month ago)
+- [Update emoji data and API](https://github.com/mroth/exmoji/pull/32) on [mroth/exmoji](https://github.com/mroth/exmoji) (2 months ago)
+- [Format code and lint in CI](https://github.com/mroth/exmoji/pull/31) on [mroth/exmoji](https://github.com/mroth/exmoji) (2 months ago)
+- [Update dependencies](https://github.com/mroth/exmoji/pull/30) on [mroth/exmoji](https://github.com/mroth/exmoji) (2 months ago)
 - [Remove deprecation warning check for 1.18](https://github.com/elixir-lang/elixir/pull/14382) on [elixir-lang/elixir](https://github.com/elixir-lang/elixir) (2 months ago)
 
 #### 📜 My recent blog posts
