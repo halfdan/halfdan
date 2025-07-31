@@ -22,7 +22,7 @@ Hi there, I'm Fabian, an open source contributor and software engineer. I have c
 
 #### 🔭 Latest releases I've contributed to
 
-- [adobe/elixir-styler](https://github.com/adobe/elixir-styler) ([v1.6.0](https://github.com/adobe/elixir-styler/releases/tag/v1.6.0), 2 days ago) - An @elixir-lang code-style enforcer that will just FIFY instead of complaining
+- [adobe/elixir-styler](https://github.com/adobe/elixir-styler) ([v1.6.0](https://github.com/adobe/elixir-styler/releases/tag/v1.6.0), 3 days ago) - An @elixir-lang code-style enforcer that will just FIFY instead of complaining
 - [parroty/exvcr](https://github.com/parroty/exvcr) ([v0.17.1](https://github.com/parroty/exvcr/releases/tag/v0.17.1), 2 months ago) - HTTP request/response recording library for elixir, inspired by VCR.
 - [mroth/exmoji](https://github.com/mroth/exmoji) ([v0.3.1](https://github.com/mroth/exmoji/releases/tag/v0.3.1), 3 months ago) - :sunglasses: Emoji encoding swiss army knife for Elixir/Erlang
 - [stephenmoloney/scrivener_list](https://github.com/stephenmoloney/scrivener_list) ([2.1.1](https://github.com/stephenmoloney/scrivener_list/releases/tag/2.1.1), 5 months ago) - A Scrivener compatible extension that allows pagination of a list of elements.
@@ -38,8 +38,8 @@ Hi there, I'm Fabian, an open source contributor and software engineer. I have c
 
 #### 📜 My recent blog posts
 
-- [Detecting Deprecated Regex Module Attributes in Elixir with Credo](https://geekmonkey.org/detecting-deprecated-regex-module-attributes-in-elixir-with-credo/) (3 months ago)
-- [How to update multiple records with different values in Ecto.Repo.update_all](https://geekmonkey.org/updating-multiple-records-with-different-values-in-ecto-repo-update_all/) (11 months ago)
+- [Detecting Deprecated Regex Module Attributes in Elixir with Credo](https://geekmonkey.org/detecting-deprecated-regex-module-attributes-in-elixir-with-credo/) (4 months ago)
+- [How to update multiple records with different values in Ecto.Repo.update_all](https://geekmonkey.org/updating-multiple-records-with-different-values-in-ecto-repo-update_all/) (1 year ago)
 - [Detecting unused database columns using Ecto schemas](https://geekmonkey.org/detecting-unused-database-columns-using-ecto-schemas/) (2 years ago)
 - [Names should be descriptive, not cute](https://geekmonkey.org/names-should-be-descriptive-not-cute/) (2 years ago)
 - [Setting up PyTorch on Mac M1 GPUs (Apple Metal / MPS)](https://geekmonkey.org/setting-up-jupyter-lab-with-pytorch-on-a-mac-with-gpu/) (2 years ago)
