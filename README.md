@@ -22,7 +22,7 @@ Hi there, I'm Fabian, an open source contributor and software engineer. I have c
 
 #### 🔭 Latest releases I've contributed to
 
-- [adobe/elixir-styler](https://github.com/adobe/elixir-styler) ([v1.9.0](https://github.com/adobe/elixir-styler/releases/tag/v1.9.0), 1 week ago) - An @elixir-lang code-style enforcer that will just FIFY instead of complaining
+- [adobe/elixir-styler](https://github.com/adobe/elixir-styler) ([v1.9.1](https://github.com/adobe/elixir-styler/releases/tag/v1.9.1), today) - An @elixir-lang code-style enforcer that will just FIFY instead of complaining
 - [oban-bg/oban](https://github.com/oban-bg/oban) ([v2.20.0](https://github.com/oban-bg/oban/releases/tag/v2.20.0), 1 month ago) - 💎 Robust job processing in Elixir, backed by modern PostgreSQL, SQLite3, and MySQL
 - [parroty/exvcr](https://github.com/parroty/exvcr) ([v0.17.1](https://github.com/parroty/exvcr/releases/tag/v0.17.1), 5 months ago) - HTTP request/response recording library for elixir, inspired by VCR.
 - [mroth/exmoji](https://github.com/mroth/exmoji) ([v0.3.1](https://github.com/mroth/exmoji/releases/tag/v0.3.1), 5 months ago) - :sunglasses: Emoji encoding swiss army knife for Elixir/Erlang
