@@ -6,7 +6,7 @@ Hi there, I'm Fabian, an open source contributor and software engineer. I have c
 
 #### 👷 Check out what I'm currently working on
 
-- [halfdan/dotfiles](https://github.com/halfdan/dotfiles) - My personal dotfiles used on my Mac and Linux machines (5 days ago)
+- [halfdan/dotfiles](https://github.com/halfdan/dotfiles) - My personal dotfiles used on my Mac and Linux machines (6 days ago)
 - [codedge-llc/pigeon](https://github.com/codedge-llc/pigeon) - iOS and Android push notifications for Elixir (5 months ago)
 - [mroth/exmoji](https://github.com/mroth/exmoji) - :sunglasses: Emoji encoding swiss army knife for Elixir/Erlang (6 months ago)
 - [Frameio/exlasticsearch](https://github.com/Frameio/exlasticsearch) - Elixir Elasticsearch DSL with ecto mapping built in (6 months ago)
@@ -22,7 +22,7 @@ Hi there, I'm Fabian, an open source contributor and software engineer. I have c
 
 #### 🔭 Latest releases I've contributed to
 
-- [adobe/elixir-styler](https://github.com/adobe/elixir-styler) ([v1.9.1](https://github.com/adobe/elixir-styler/releases/tag/v1.9.1), 3 weeks ago) - An @elixir-lang code-style enforcer that will just FIFY instead of complaining
+- [adobe/elixir-styler](https://github.com/adobe/elixir-styler) ([v1.9.1](https://github.com/adobe/elixir-styler/releases/tag/v1.9.1), 4 weeks ago) - An @elixir-lang code-style enforcer that will just FIFY instead of complaining
 - [oban-bg/oban](https://github.com/oban-bg/oban) ([v2.20.0](https://github.com/oban-bg/oban/releases/tag/v2.20.0), 2 months ago) - 💎 Robust job processing in Elixir, backed by modern PostgreSQL, SQLite3, and MySQL
 - [parroty/exvcr](https://github.com/parroty/exvcr) ([v0.17.1](https://github.com/parroty/exvcr/releases/tag/v0.17.1), 5 months ago) - HTTP request/response recording library for elixir, inspired by VCR.
 - [mroth/exmoji](https://github.com/mroth/exmoji) ([v0.3.1](https://github.com/mroth/exmoji/releases/tag/v0.3.1), 6 months ago) - :sunglasses: Emoji encoding swiss army knife for Elixir/Erlang
@@ -38,7 +38,7 @@ Hi there, I'm Fabian, an open source contributor and software engineer. I have c
 
 #### 📜 My recent blog posts
 
-- [Detecting Deprecated Regex Module Attributes in Elixir with Credo](https://geekmonkey.org/detecting-deprecated-regex-module-attributes-in-elixir-with-credo/) (6 months ago)
+- [Detecting Deprecated Regex Module Attributes in Elixir with Credo](https://geekmonkey.org/detecting-deprecated-regex-module-attributes-in-elixir-with-credo/) (7 months ago)
 - [How to update multiple records with different values in Ecto.Repo.update_all](https://geekmonkey.org/updating-multiple-records-with-different-values-in-ecto-repo-update_all/) (1 year ago)
 - [Detecting unused database columns using Ecto schemas](https://geekmonkey.org/detecting-unused-database-columns-using-ecto-schemas/) (2 years ago)
 - [Names should be descriptive, not cute](https://geekmonkey.org/names-should-be-descriptive-not-cute/) (2 years ago)
