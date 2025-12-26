@@ -34,14 +34,14 @@ Hi there, I'm Fabian, an open source contributor and software engineer. I have c
 - [Update emoji data and API](https://github.com/mroth/exmoji/pull/32) on [mroth/exmoji](https://github.com/mroth/exmoji) (8 months ago)
 - [Format code and lint in CI](https://github.com/mroth/exmoji/pull/31) on [mroth/exmoji](https://github.com/mroth/exmoji) (8 months ago)
 - [Update dependencies](https://github.com/mroth/exmoji/pull/30) on [mroth/exmoji](https://github.com/mroth/exmoji) (8 months ago)
-- [Remove deprecation warning check for 1.18](https://github.com/elixir-lang/elixir/pull/14382) on [elixir-lang/elixir](https://github.com/elixir-lang/elixir) (8 months ago)
+- [Remove deprecation warning check for 1.18](https://github.com/elixir-lang/elixir/pull/14382) on [elixir-lang/elixir](https://github.com/elixir-lang/elixir) (9 months ago)
 
 #### 📜 My recent blog posts
 
 - [Detecting Deprecated Regex Module Attributes in Elixir with Credo](https://geekmonkey.org/detecting-deprecated-regex-module-attributes-in-elixir-with-credo/) (8 months ago)
 - [How to update multiple records with different values in Ecto.Repo.update_all](https://geekmonkey.org/updating-multiple-records-with-different-values-in-ecto-repo-update_all/) (1 year ago)
 - [Detecting unused database columns using Ecto schemas](https://geekmonkey.org/detecting-unused-database-columns-using-ecto-schemas/) (2 years ago)
-- [Names should be descriptive, not cute](https://geekmonkey.org/names-should-be-descriptive-not-cute/) (2 years ago)
+- [Names should be descriptive, not cute](https://geekmonkey.org/names-should-be-descriptive-not-cute/) (3 years ago)
 - [Setting up PyTorch on Mac M1 GPUs (Apple Metal / MPS)](https://geekmonkey.org/setting-up-jupyter-lab-with-pytorch-on-a-mac-with-gpu/) (3 years ago)
 
 #### ❤️ These awesome people sponsor me (thank you!)
