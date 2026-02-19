@@ -26,7 +26,7 @@ Hi there, I'm Fabian, an open source contributor and software engineer. I have c
 - [adobe/elixir-styler](https://github.com/adobe/elixir-styler) ([v1.10.1](https://github.com/adobe/elixir-styler/releases/tag/v1.10.1), 1 month ago) - An @elixir-lang code-style enforcer that will just FIFY instead of complaining
 - [parroty/exvcr](https://github.com/parroty/exvcr) ([v0.17.1](https://github.com/parroty/exvcr/releases/tag/v0.17.1), 9 months ago) - HTTP request/response recording library for elixir, inspired by VCR.
 - [mroth/exmoji](https://github.com/mroth/exmoji) ([v0.3.1](https://github.com/mroth/exmoji/releases/tag/v0.3.1), 10 months ago) - :sunglasses: Emoji encoding swiss army knife for Elixir/Erlang
-- [stephenmoloney/scrivener_list](https://github.com/stephenmoloney/scrivener_list) ([2.1.1](https://github.com/stephenmoloney/scrivener_list/releases/tag/2.1.1), 11 months ago) - A Scrivener compatible extension that allows pagination of a list of elements.
+- [stephenmoloney/scrivener_list](https://github.com/stephenmoloney/scrivener_list) ([2.1.1](https://github.com/stephenmoloney/scrivener_list/releases/tag/2.1.1), 1 year ago) - A Scrivener compatible extension that allows pagination of a list of elements.
 
 #### 🔨 Latest Pull Requests I published
 
