@@ -9,7 +9,7 @@ Hi there, I'm Fabian, an open source contributor and software engineer. I have c
 - [halfdan/dotfiles](https://github.com/halfdan/dotfiles) - My personal dotfiles used on my Mac and Linux machines (4 months ago)
 - [codedge-llc/pigeon](https://github.com/codedge-llc/pigeon) - iOS and Android push notifications for Elixir (9 months ago)
 - [mroth/exmoji](https://github.com/mroth/exmoji) - :sunglasses: Emoji encoding swiss army knife for Elixir/Erlang (10 months ago)
-- [Frameio/exlasticsearch](https://github.com/Frameio/exlasticsearch) - Elixir Elasticsearch DSL with ecto mapping built in (10 months ago)
+- [Frameio/exlasticsearch](https://github.com/Frameio/exlasticsearch) - Elixir Elasticsearch DSL with ecto mapping built in (11 months ago)
 - [parroty/exvcr](https://github.com/parroty/exvcr) - HTTP request/response recording library for elixir, inspired by VCR. (11 months ago)
 
 #### 🌱 My latest projects
@@ -23,7 +23,7 @@ Hi there, I'm Fabian, an open source contributor and software engineer. I have c
 #### 🔭 Latest releases I've contributed to
 
 - [oban-bg/oban](https://github.com/oban-bg/oban) ([v2.20.3](https://github.com/oban-bg/oban/releases/tag/v2.20.3), 1 month ago) - 💎 Robust job processing in Elixir, backed by modern PostgreSQL, SQLite3, and MySQL
-- [parroty/exvcr](https://github.com/parroty/exvcr) ([v0.17.1](https://github.com/parroty/exvcr/releases/tag/v0.17.1), 9 months ago) - HTTP request/response recording library for elixir, inspired by VCR.
+- [parroty/exvcr](https://github.com/parroty/exvcr) ([v0.17.1](https://github.com/parroty/exvcr/releases/tag/v0.17.1), 10 months ago) - HTTP request/response recording library for elixir, inspired by VCR.
 - [mroth/exmoji](https://github.com/mroth/exmoji) ([v0.3.1](https://github.com/mroth/exmoji/releases/tag/v0.3.1), 10 months ago) - :sunglasses: Emoji encoding swiss army knife for Elixir/Erlang
 - [codedge-llc/pigeon](https://github.com/codedge-llc/pigeon) ([v2.0.1](https://github.com/codedge-llc/pigeon/releases/tag/v2.0.1), 1 year ago) - iOS and Android push notifications for Elixir
 - [Frameio/cereal_ex](https://github.com/Frameio/cereal_ex) ([v1.4.1](https://github.com/Frameio/cereal_ex/releases/tag/v1.4.1), 2 years ago) - A pluggable JSON serialization library for Elixir
