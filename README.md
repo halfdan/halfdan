@@ -26,7 +26,7 @@ Hi there, I'm Fabian, an open source contributor and software engineer. I have c
 - [parroty/exvcr](https://github.com/parroty/exvcr) ([v0.17.1](https://github.com/parroty/exvcr/releases/tag/v0.17.1), 10 months ago) - HTTP request/response recording library for elixir, inspired by VCR.
 - [mroth/exmoji](https://github.com/mroth/exmoji) ([v0.3.1](https://github.com/mroth/exmoji/releases/tag/v0.3.1), 10 months ago) - :sunglasses: Emoji encoding swiss army knife for Elixir/Erlang
 - [codedge-llc/pigeon](https://github.com/codedge-llc/pigeon) ([v2.0.1](https://github.com/codedge-llc/pigeon/releases/tag/v2.0.1), 1 year ago) - iOS and Android push notifications for Elixir
-- [Frameio/cereal_ex](https://github.com/Frameio/cereal_ex) ([v1.4.1](https://github.com/Frameio/cereal_ex/releases/tag/v1.4.1), 2 years ago) - A pluggable JSON serialization library for Elixir
+- [Frameio/exlasticsearch](https://github.com/Frameio/exlasticsearch) ([v1.0.0](https://github.com/Frameio/exlasticsearch/releases/tag/v1.0.0), 7 years ago) - Elixir Elasticsearch DSL with ecto mapping built in
 
 #### 🔨 Latest Pull Requests I published
 
