@@ -8,7 +8,7 @@ Hi there, I'm Fabian, an open source contributor and software engineer. I have c
 
 - [halfdan/dotfiles](https://github.com/halfdan/dotfiles) - My personal dotfiles used on my Mac and Linux machines (4 months ago)
 - [codedge-llc/pigeon](https://github.com/codedge-llc/pigeon) - iOS and Android push notifications for Elixir (9 months ago)
-- [mroth/exmoji](https://github.com/mroth/exmoji) - :sunglasses: Emoji encoding swiss army knife for Elixir/Erlang (10 months ago)
+- [mroth/exmoji](https://github.com/mroth/exmoji) - :sunglasses: Emoji encoding swiss army knife for Elixir/Erlang (11 months ago)
 - [Frameio/exlasticsearch](https://github.com/Frameio/exlasticsearch) - Elixir Elasticsearch DSL with ecto mapping built in (11 months ago)
 - [parroty/exvcr](https://github.com/parroty/exvcr) - HTTP request/response recording library for elixir, inspired by VCR. (11 months ago)
 
@@ -24,13 +24,13 @@ Hi there, I'm Fabian, an open source contributor and software engineer. I have c
 
 - [oban-bg/oban](https://github.com/oban-bg/oban) ([v2.20.3](https://github.com/oban-bg/oban/releases/tag/v2.20.3), 1 month ago) - 💎 Robust job processing in Elixir, backed by modern PostgreSQL, SQLite3, and MySQL
 - [parroty/exvcr](https://github.com/parroty/exvcr) ([v0.17.1](https://github.com/parroty/exvcr/releases/tag/v0.17.1), 10 months ago) - HTTP request/response recording library for elixir, inspired by VCR.
-- [mroth/exmoji](https://github.com/mroth/exmoji) ([v0.3.1](https://github.com/mroth/exmoji/releases/tag/v0.3.1), 10 months ago) - :sunglasses: Emoji encoding swiss army knife for Elixir/Erlang
+- [mroth/exmoji](https://github.com/mroth/exmoji) ([v0.3.1](https://github.com/mroth/exmoji/releases/tag/v0.3.1), 11 months ago) - :sunglasses: Emoji encoding swiss army knife for Elixir/Erlang
 - [codedge-llc/pigeon](https://github.com/codedge-llc/pigeon) ([v2.0.1](https://github.com/codedge-llc/pigeon/releases/tag/v2.0.1), 1 year ago) - iOS and Android push notifications for Elixir
 - [Frameio/exlasticsearch](https://github.com/Frameio/exlasticsearch) ([v1.0.0](https://github.com/Frameio/exlasticsearch/releases/tag/v1.0.0), 7 years ago) - Elixir Elasticsearch DSL with ecto mapping built in
 
 #### 🔨 Latest Pull Requests I published
 
-- [Fix Elixir 1.19 warning](https://github.com/mroth/exmoji/pull/34) on [mroth/exmoji](https://github.com/mroth/exmoji) (10 months ago)
+- [Fix Elixir 1.19 warning](https://github.com/mroth/exmoji/pull/34) on [mroth/exmoji](https://github.com/mroth/exmoji) (11 months ago)
 - [Update emoji data and API](https://github.com/mroth/exmoji/pull/32) on [mroth/exmoji](https://github.com/mroth/exmoji) (11 months ago)
 - [Format code and lint in CI](https://github.com/mroth/exmoji/pull/31) on [mroth/exmoji](https://github.com/mroth/exmoji) (11 months ago)
 - [Update dependencies](https://github.com/mroth/exmoji/pull/30) on [mroth/exmoji](https://github.com/mroth/exmoji) (11 months ago)
