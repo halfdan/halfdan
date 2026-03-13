@@ -22,7 +22,6 @@ Hi there, I'm Fabian, an open source contributor and software engineer. I have c
 
 #### 🔭 Latest releases I've contributed to
 
-- [oban-bg/oban](https://github.com/oban-bg/oban) ([v2.20.3](https://github.com/oban-bg/oban/releases/tag/v2.20.3), 1 month ago) - 💎 Robust job processing in Elixir, backed by modern PostgreSQL, SQLite3, and MySQL
 - [parroty/exvcr](https://github.com/parroty/exvcr) ([v0.17.1](https://github.com/parroty/exvcr/releases/tag/v0.17.1), 10 months ago) - HTTP request/response recording library for elixir, inspired by VCR.
 - [mroth/exmoji](https://github.com/mroth/exmoji) ([v0.3.1](https://github.com/mroth/exmoji/releases/tag/v0.3.1), 11 months ago) - :sunglasses: Emoji encoding swiss army knife for Elixir/Erlang
 - [codedge-llc/pigeon](https://github.com/codedge-llc/pigeon) ([v2.0.1](https://github.com/codedge-llc/pigeon/releases/tag/v2.0.1), 1 year ago) - iOS and Android push notifications for Elixir
