@@ -35,7 +35,7 @@ Hi there, I'm Fabian, an open source contributor and software engineer. I have c
 
 #### 📜 My recent blog posts
 
-- [Detecting Deprecated Regex Module Attributes in Elixir with Credo](https://geekmonkey.org/detecting-deprecated-regex-module-attributes-in-elixir-with-credo/) (11 months ago)
+- [Detecting Deprecated Regex Module Attributes in Elixir with Credo](https://geekmonkey.org/detecting-deprecated-regex-module-attributes-in-elixir-with-credo/) (1 year ago)
 - [How to update multiple records with different values in Ecto.Repo.update_all](https://geekmonkey.org/updating-multiple-records-with-different-values-in-ecto-repo-update_all/) (2 years ago)
 - [Detecting unused database columns using Ecto schemas](https://geekmonkey.org/detecting-unused-database-columns-using-ecto-schemas/) (2 years ago)
 - [Names should be descriptive, not cute](https://geekmonkey.org/names-should-be-descriptive-not-cute/) (3 years ago)
