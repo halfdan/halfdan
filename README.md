@@ -19,7 +19,6 @@ Hi there, I'm Fabian, an open source contributor and software engineer. I have c
 
 #### 🔭 Latest releases I've contributed to
 
-- [codedge-llc/pigeon](https://github.com/codedge-llc/pigeon) ([v2.0.1](https://github.com/codedge-llc/pigeon/releases/tag/v2.0.1), 1 year ago) - iOS and Android push notifications for Elixir
 
 #### 🔨 Latest Pull Requests I published
 
