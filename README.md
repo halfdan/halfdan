@@ -6,15 +6,16 @@ Hi there, I'm Fabian, an open source contributor and software engineer. I have c
 
 #### 👷 Check out what I'm currently working on
 
+- [halfdan/fabianbecker.eu](https://github.com/halfdan/fabianbecker.eu) -  (today)
 - [halfdan/dotfiles](https://github.com/halfdan/dotfiles) - My personal dotfiles used on my Mac and Linux machines (2 months ago)
 
 #### 🌱 My latest projects
 
+- [halfdan/fabianbecker.eu](https://github.com/halfdan/fabianbecker.eu) - 
 - [halfdan/kafka_msk_auth](https://github.com/halfdan/kafka_msk_auth) - AWS_MSK_IAM Authentication Plugin for Broadway Kafka and brod
 - [halfdan/elixir-crashing-compiler](https://github.com/halfdan/elixir-crashing-compiler) - 
 - [halfdan/rosalind](https://github.com/halfdan/rosalind) - Solutions to Rosalind exercises - follow my progress at https://madewithco.de
 - [halfdan/madewithcode](https://github.com/halfdan/madewithcode) - 
-- [halfdan/jira.nvim](https://github.com/halfdan/jira.nvim) - An opinionated Jira client for Neovim written in pure Lua
 
 #### 🔭 Latest releases I've contributed to
 
