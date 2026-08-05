@@ -6,7 +6,7 @@ Hi there, I'm Fabian, an open source contributor and software engineer. I have c
 
 #### 👷 Check out what I'm currently working on
 
-- [halfdan/fabianbecker.eu](https://github.com/halfdan/fabianbecker.eu) -  (3 weeks ago)
+- [halfdan/fabianbecker.eu](https://github.com/halfdan/fabianbecker.eu) -  (4 weeks ago)
 - [halfdan/dotfiles](https://github.com/halfdan/dotfiles) - My personal dotfiles used on my Mac and Linux machines (3 months ago)
 
 #### 🌱 My latest projects
