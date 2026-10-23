@@ -22,7 +22,7 @@ Hi there, I'm Fabian, an open source contributor and software engineer. I have c
 
 #### 🔨 Latest Pull Requests I published
 
-- [ViCare: add missing pellet boiler sensors](https://github.com/home-assistant/core/pull/187762) on [home-assistant/core](https://github.com/home-assistant/core) (1 day ago)
+- [ViCare: add missing pellet boiler sensors](https://github.com/home-assistant/core/pull/187762) on [home-assistant/core](https://github.com/home-assistant/core) (2 days ago)
 - [Fix Elixir 1.19 warning](https://github.com/mroth/exmoji/pull/34) on [mroth/exmoji](https://github.com/mroth/exmoji) (2 years ago)
 - [Update emoji data and API](https://github.com/mroth/exmoji/pull/32) on [mroth/exmoji](https://github.com/mroth/exmoji) (2 years ago)
 - [Format code and lint in CI](https://github.com/mroth/exmoji/pull/31) on [mroth/exmoji](https://github.com/mroth/exmoji) (2 years ago)
