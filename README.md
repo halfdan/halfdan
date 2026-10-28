@@ -6,6 +6,7 @@ Hi there, I'm Fabian, an open source contributor and software engineer. I have c
 
 #### 👷 Check out what I'm currently working on
 
+- [home-assistant/core](https://github.com/home-assistant/core) - :house_with_garden: Open source home automation that puts local control and privacy first. (today)
 - [halfdan/fabianbecker.eu](https://github.com/halfdan/fabianbecker.eu) -  (3 months ago)
 - [halfdan/dotfiles](https://github.com/halfdan/dotfiles) - My personal dotfiles used on my Mac and Linux machines (6 months ago)
 
@@ -19,10 +20,11 @@ Hi there, I'm Fabian, an open source contributor and software engineer. I have c
 
 #### 🔭 Latest releases I've contributed to
 
+- [home-assistant/core](https://github.com/home-assistant/core) ([2026.10.4](https://github.com/home-assistant/core/releases/tag/2026.10.4), 4 days ago) - :house_with_garden: Open source home automation that puts local control and privacy first.
 
 #### 🔨 Latest Pull Requests I published
 
-- [ViCare: add missing pellet boiler sensors](https://github.com/home-assistant/core/pull/187762) on [home-assistant/core](https://github.com/home-assistant/core) (6 days ago)
+- [ViCare: add missing pellet boiler sensors](https://github.com/home-assistant/core/pull/187762) on [home-assistant/core](https://github.com/home-assistant/core) (1 week ago)
 - [Fix Elixir 1.19 warning](https://github.com/mroth/exmoji/pull/34) on [mroth/exmoji](https://github.com/mroth/exmoji) (2 years ago)
 - [Update emoji data and API](https://github.com/mroth/exmoji/pull/32) on [mroth/exmoji](https://github.com/mroth/exmoji) (2 years ago)
 - [Format code and lint in CI](https://github.com/mroth/exmoji/pull/31) on [mroth/exmoji](https://github.com/mroth/exmoji) (2 years ago)
@@ -34,7 +36,7 @@ Hi there, I'm Fabian, an open source contributor and software engineer. I have c
 - [How to update multiple records with different values in Ecto.Repo.update_all](https://geekmonkey.org/updating-multiple-records-with-different-values-in-ecto-repo-update_all/) (2 years ago)
 - [Detecting unused database columns using Ecto schemas](https://geekmonkey.org/detecting-unused-database-columns-using-ecto-schemas/) (3 years ago)
 - [Names should be descriptive, not cute](https://geekmonkey.org/names-should-be-descriptive-not-cute/) (3 years ago)
-- [Setting up PyTorch on Mac M1 GPUs (Apple Metal / MPS)](https://geekmonkey.org/setting-up-jupyter-lab-with-pytorch-on-a-mac-with-gpu/) (3 years ago)
+- [Setting up PyTorch on Mac M1 GPUs (Apple Metal / MPS)](https://geekmonkey.org/setting-up-jupyter-lab-with-pytorch-on-a-mac-with-gpu/) (4 years ago)
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
