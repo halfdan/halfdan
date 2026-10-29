@@ -20,7 +20,7 @@ Hi there, I'm Fabian, an open source contributor and software engineer. I have c
 
 #### 🔭 Latest releases I've contributed to
 
-- [home-assistant/core](https://github.com/home-assistant/core) ([2026.11.0b0](https://github.com/home-assistant/core/releases/tag/2026.11.0b0), 1 day ago) - :house_with_garden: Open source home automation that puts local control and privacy first.
+- [home-assistant/core](https://github.com/home-assistant/core) ([2026.11.0b1](https://github.com/home-assistant/core/releases/tag/2026.11.0b1), today) - :house_with_garden: Open source home automation that puts local control and privacy first.
 
 #### 🔨 Latest Pull Requests I published
 
