@@ -6,7 +6,7 @@ Hi there, I'm Fabian, an open source contributor and software engineer. I have c
 
 #### 👷 Check out what I'm currently working on
 
-- [home-assistant/core](https://github.com/home-assistant/core) - :house_with_garden: Open source home automation that puts local control and privacy first. (2 days ago)
+- [home-assistant/core](https://github.com/home-assistant/core) - :house_with_garden: Open source home automation that puts local control and privacy first. (3 days ago)
 - [halfdan/fabianbecker.eu](https://github.com/halfdan/fabianbecker.eu) -  (3 months ago)
 - [halfdan/dotfiles](https://github.com/halfdan/dotfiles) - My personal dotfiles used on my Mac and Linux machines (6 months ago)
 
@@ -20,7 +20,7 @@ Hi there, I'm Fabian, an open source contributor and software engineer. I have c
 
 #### 🔭 Latest releases I've contributed to
 
-- [home-assistant/core](https://github.com/home-assistant/core) ([2026.11.0b1](https://github.com/home-assistant/core/releases/tag/2026.11.0b1), 1 day ago) - :house_with_garden: Open source home automation that puts local control and privacy first.
+- [home-assistant/core](https://github.com/home-assistant/core) ([2026.11.0b2](https://github.com/home-assistant/core/releases/tag/2026.11.0b2), 1 day ago) - :house_with_garden: Open source home automation that puts local control and privacy first.
 
 #### 🔨 Latest Pull Requests I published
 
