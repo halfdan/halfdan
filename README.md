@@ -6,7 +6,7 @@ Hi there, I'm Fabian, an open source contributor and software engineer. I have c
 
 #### 👷 Check out what I'm currently working on
 
-- [home-assistant/core](https://github.com/home-assistant/core) - :house_with_garden: Open source home automation that puts local control and privacy first. (6 days ago)
+- [home-assistant/core](https://github.com/home-assistant/core) - :house_with_garden: Open source home automation that puts local control and privacy first. (1 week ago)
 - [halfdan/fabianbecker.eu](https://github.com/halfdan/fabianbecker.eu) -  (3 months ago)
 - [halfdan/dotfiles](https://github.com/halfdan/dotfiles) - My personal dotfiles used on my Mac and Linux machines (6 months ago)
 
@@ -20,11 +20,11 @@ Hi there, I'm Fabian, an open source contributor and software engineer. I have c
 
 #### 🔭 Latest releases I've contributed to
 
-- [home-assistant/core](https://github.com/home-assistant/core) ([2026.11.0b4](https://github.com/home-assistant/core/releases/tag/2026.11.0b4), today) - :house_with_garden: Open source home automation that puts local control and privacy first.
+- [home-assistant/core](https://github.com/home-assistant/core) ([2026.11.0b4](https://github.com/home-assistant/core/releases/tag/2026.11.0b4), 1 day ago) - :house_with_garden: Open source home automation that puts local control and privacy first.
 
 #### 🔨 Latest Pull Requests I published
 
-- [ViCare: add missing pellet boiler sensors](https://github.com/home-assistant/core/pull/187762) on [home-assistant/core](https://github.com/home-assistant/core) (1 week ago)
+- [ViCare: add missing pellet boiler sensors](https://github.com/home-assistant/core/pull/187762) on [home-assistant/core](https://github.com/home-assistant/core) (2 weeks ago)
 - [Fix Elixir 1.19 warning](https://github.com/mroth/exmoji/pull/34) on [mroth/exmoji](https://github.com/mroth/exmoji) (2 years ago)
 - [Update emoji data and API](https://github.com/mroth/exmoji/pull/32) on [mroth/exmoji](https://github.com/mroth/exmoji) (2 years ago)
 - [Format code and lint in CI](https://github.com/mroth/exmoji/pull/31) on [mroth/exmoji](https://github.com/mroth/exmoji) (2 years ago)
