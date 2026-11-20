@@ -20,11 +20,11 @@ Hi there, I'm Fabian, an open source contributor and software engineer. I have c
 
 #### 🔭 Latest releases I've contributed to
 
-- [home-assistant/core](https://github.com/home-assistant/core) ([2026.11.2](https://github.com/home-assistant/core/releases/tag/2026.11.2), 3 days ago) - :house_with_garden: Open source home automation that puts local control and privacy first.
+- [home-assistant/core](https://github.com/home-assistant/core) ([2026.11.2](https://github.com/home-assistant/core/releases/tag/2026.11.2), 4 days ago) - :house_with_garden: Open source home automation that puts local control and privacy first.
 
 #### 🔨 Latest Pull Requests I published
 
-- [ViCare: add missing pellet boiler sensors](https://github.com/home-assistant/core/pull/187762) on [home-assistant/core](https://github.com/home-assistant/core) (4 weeks ago)
+- [ViCare: add missing pellet boiler sensors](https://github.com/home-assistant/core/pull/187762) on [home-assistant/core](https://github.com/home-assistant/core) (1 month ago)
 - [Fix Elixir 1.19 warning](https://github.com/mroth/exmoji/pull/34) on [mroth/exmoji](https://github.com/mroth/exmoji) (2 years ago)
 - [Update emoji data and API](https://github.com/mroth/exmoji/pull/32) on [mroth/exmoji](https://github.com/mroth/exmoji) (2 years ago)
 - [Format code and lint in CI](https://github.com/mroth/exmoji/pull/31) on [mroth/exmoji](https://github.com/mroth/exmoji) (2 years ago)
